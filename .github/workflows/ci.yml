@@ -29,7 +29,7 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         if: |
-          startsWith(github.repository, 'it985') && 
+          startsWith(github.repository, 'gongjuecloak') && 
           startsWith(github.ref, 'refs/tags/')
         env:
           zhihutrendingtop: ${{ secrets.zhihutrendingtop }}
