@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 08 2022 20:17:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 08 2022 21:34:24 GMT+0800 (China Standard Time) -->
 
 1. [土卫二可能存在「生命之磷」](https://www.zhihu.com/search?q=土卫二可能存在「生命之磷」)
 1. [国庆全国出游 4.22 亿人次](https://www.zhihu.com/search?q=国庆全国出游 4.22 亿人次)
@@ -18,6 +18,7 @@
 1. [守望先锋动画短片](https://www.zhihu.com/search?q=守望先锋动画短片)
 1. [克里米亚大桥发生火灾](https://www.zhihu.com/search?q=克里米亚大桥发生火灾)
 1. [卢本伟赵梦玥分手](https://www.zhihu.com/search?q=卢本伟赵梦玥分手)
+1. [国乒男团晋级世乒赛决赛](https://www.zhihu.com/search?q=国乒男团晋级世乒赛决赛)
 1. [世乒赛男团半决赛](https://www.zhihu.com/search?q=世乒赛男团半决赛)
 1. [鄱阳湖水位下降致鱼搁浅](https://www.zhihu.com/search?q=鄱阳湖水位下降致鱼搁浅)
 1. [湖南凤凰全域静默](https://www.zhihu.com/search?q=湖南凤凰全域静默)
