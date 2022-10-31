@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 31 2022 19:09:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 31 2022 20:22:03 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [Tundra 夺得 TI11 冠军](https://www.zhihu.com/search?q=Tundra 夺得 TI11 冠军)
