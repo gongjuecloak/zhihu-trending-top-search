@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 30 2022 18:09:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 30 2022 19:07:11 GMT+0800 (China Standard Time) -->
 
 1. [神舟十五号载人飞船发射成功](https://www.zhihu.com/search?q=神舟十五号载人飞船发射成功)
 1. [魔兽世界负责人留言中国玩家](https://www.zhihu.com/search?q=魔兽世界负责人留言中国玩家)
