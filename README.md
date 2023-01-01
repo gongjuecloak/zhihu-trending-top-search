@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 02 2023 00:09:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 02 2023 01:06:22 GMT+0800 (China Standard Time) -->
 
 1. [新年第一缕阳光](https://www.zhihu.com/search?q=新年第一缕阳光)
 1. [无名定档大年初一](https://www.zhihu.com/search?q=无名定档大年初一)
