@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 02 2023 10:22:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 02 2023 11:17:49 GMT+0800 (China Standard Time) -->
 
 1. [原神 3.5 版本上线](https://www.zhihu.com/search?q=原神 3.5 版本上线)
 1. [爱潜水的乌贼入驻知乎](https://www.zhihu.com/search?q=爱潜水的乌贼入驻知乎)
