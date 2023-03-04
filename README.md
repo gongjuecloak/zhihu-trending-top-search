@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 05 2023 01:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 05 2023 02:09:25 GMT+0800 (China Standard Time) -->
 
 1. [进击的巨人最终季更新](https://www.zhihu.com/search?q=进击的巨人最终季更新)
 
