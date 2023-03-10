@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 10 2023 10:23:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 10 2023 11:20:10 GMT+0800 (China Standard Time) -->
 
 1. [2 月 CPI 同比上升 1.0%](https://www.zhihu.com/search?q=2 月 CPI 同比上升
    1.0%)
