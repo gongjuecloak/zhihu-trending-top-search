@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 04 2023 08:38:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 04 2023 10:00:58 GMT+0800 (China Standard Time) -->
 
 1. [张继科年收入曾达 6000 万元](https://www.zhihu.com/search?q=张继科年收入曾达
    6000 万元)
