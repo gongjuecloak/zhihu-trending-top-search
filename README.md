@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 28 2023 05:06:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 28 2023 06:06:28 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷将使用人民币结算中国进口商品](https://www.zhihu.com/search?q=阿根廷将使用人民币结算中国进口商品)
 1. [31 省份常住人口数据出炉](https://www.zhihu.com/search?q=31
