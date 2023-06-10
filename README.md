@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 22:05:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 23:06:41 GMT+0800 (China Standard Time) -->
 
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306
    试行在线选铺服务)
