@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 26 2023 06:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 26 2023 07:08:05 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿](https://www.zhihu.com/search?q=高考志愿)
 1. [北京高考分数线](https://www.zhihu.com/search?q=北京高考分数线)
