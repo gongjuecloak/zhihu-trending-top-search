@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 27 2023 04:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 27 2023 05:05:23 GMT+0800 (China Standard Time) -->
 
 1. [《中国好声音》停播](https://www.zhihu.com/search?q=《中国好声音》停播)
 1. [不敢辞职的人在怕什么](https://www.zhihu.com/search?q=不敢辞职的人在怕什么)
