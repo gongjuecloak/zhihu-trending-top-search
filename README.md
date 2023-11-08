@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 08 2023 08:35:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 08 2023 09:43:47 GMT+0800 (China Standard Time) -->
 
+1. [黎明前总是最冷的时候](https://www.zhihu.com/search?q=黎明前总是最冷的时候)
 1. [中山二院回应乳腺外科多人患癌](https://www.zhihu.com/search?q=中山二院回应乳腺外科多人患癌)
 1. [新疆凌晨连发 6 次地震](https://www.zhihu.com/search?q=新疆凌晨连发 6 次地震)
 1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
