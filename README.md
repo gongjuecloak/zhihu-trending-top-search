@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 11 2023 05:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 11 2023 06:06:47 GMT+0800 (China Standard Time) -->
 
 1. [华为mate60](https://www.zhihu.com/search?q=华为mate60)
 1. [iphone15](https://www.zhihu.com/search?q=iphone15)
