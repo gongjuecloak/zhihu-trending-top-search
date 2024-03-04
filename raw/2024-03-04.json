@@ -9,14 +9,18 @@
   { "query": "软考高项", "display_query": "软考高项" },
   { "query": "软考成绩查询时间", "display_query": "软考成绩查询时间" },
   {
-    "query": "雷军建议从义务教育阶段普及人工智能教育",
-    "display_query": "雷军建议从义务教育阶段普及人工智能教育"
+    "query": "A股三大指数开盘涨跌不一",
+    "display_query": "A股三大指数开盘涨跌不一"
   },
   { "query": "pmp证书", "display_query": "pmp证书" },
   { "query": "pmp证书有意义吗", "display_query": "pmp证书有意义吗" },
   {
     "query": "高级信息系统项目管理师",
     "display_query": "高级信息系统项目管理师"
+  },
+  {
+    "query": "雷军建议从义务教育阶段普及人工智能教育",
+    "display_query": "雷军建议从义务教育阶段普及人工智能教育"
   },
   { "query": "计算机证书都有哪些", "display_query": "计算机证书都有哪些" },
   { "query": "软件测试", "display_query": "软件测试" },

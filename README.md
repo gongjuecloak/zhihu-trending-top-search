@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 04 2024 15:48:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 17:28:21 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=维斯塔潘夺冠)
@@ -16,10 +16,11 @@
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=信息系统项目管理师)
 1. [软考高项](https://www.zhihu.com/search?q=软考高项)
 1. [软考成绩查询时间](https://www.zhihu.com/search?q=软考成绩查询时间)
-1. [雷军建议从义务教育阶段普及人工智能教育](https://www.zhihu.com/search?q=雷军建议从义务教育阶段普及人工智能教育)
+1. [A股三大指数开盘涨跌不一](https://www.zhihu.com/search?q=A股三大指数开盘涨跌不一)
 1. [pmp证书](https://www.zhihu.com/search?q=pmp证书)
 1. [pmp证书有意义吗](https://www.zhihu.com/search?q=pmp证书有意义吗)
 1. [高级信息系统项目管理师](https://www.zhihu.com/search?q=高级信息系统项目管理师)
+1. [雷军建议从义务教育阶段普及人工智能教育](https://www.zhihu.com/search?q=雷军建议从义务教育阶段普及人工智能教育)
 1. [计算机证书都有哪些](https://www.zhihu.com/search?q=计算机证书都有哪些)
 1. [软件测试](https://www.zhihu.com/search?q=软件测试)
 1. [软考有什么用](https://www.zhihu.com/search?q=软考有什么用)
