@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 22 2024 13:08:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 22 2024 14:10:15 GMT+0800 (China Standard Time) -->
 
 1. [世界睡眠日](https://www.zhihu.com/search?q=世界睡眠日)
 1. [世界水日](https://www.zhihu.com/search?q=世界水日)
