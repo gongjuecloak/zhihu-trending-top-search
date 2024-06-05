@@ -1,5 +1,6 @@
 [
   { "query": "苹果手机", "display_query": "苹果手机" },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "张志磊vs维尔德", "display_query": "张志磊vs维尔德" },
   {
     "query": "董明珠称打工人想休闲可以辞职",
@@ -34,7 +35,6 @@
     "query": "美国去工业化美国人做什么工作",
     "display_query": "美国去工业化美国人做什么工作"
   },
-  { "query": "墨雨云间", "display_query": "墨雨云间" },
   {
     "query": "马自达认证违规问题致歉",
     "display_query": "马自达认证违规问题致歉"
