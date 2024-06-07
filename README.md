@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 07 2024 12:11:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 07 2024 13:09:18 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -19,6 +19,7 @@
 1. [乌承认巴勒斯坦国](https://www.zhihu.com/search?q=乌承认巴勒斯坦国)
 1. [迪丽热巴新歌首发](https://www.zhihu.com/search?q=迪丽热巴新歌首发)
 1. [数只美股疑似出现行情异常](https://www.zhihu.com/search?q=数只美股疑似出现行情异常)
+1. [王者荣耀皮影戏联动](https://www.zhihu.com/search?q=王者荣耀皮影戏联动)
 1. [多家日本车企存在舞弊行为](https://www.zhihu.com/search?q=多家日本车企存在舞弊行为)
 1. [OpenAI](https://www.zhihu.com/search?q=OpenAI)
 1. [乌克兰承认巴勒斯坦是一个国家](https://www.zhihu.com/search?q=乌克兰承认巴勒斯坦是一个国家)
