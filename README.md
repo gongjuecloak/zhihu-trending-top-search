@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 18 2024 08:45:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 18 2024 10:04:04 GMT+0800 (China Standard Time) -->
 
 1. [台积电美国工厂 4
    年未生产一颗芯片](https://www.zhihu.com/search?q=台积电美国工厂 4
