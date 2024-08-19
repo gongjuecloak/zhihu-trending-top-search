@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 19 2024 11:10:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 19 2024 12:11:08 GMT+0800 (China Standard Time) -->
 
 1. [达州蚁商神龙洞投毒](https://www.zhihu.com/search?q=达州蚁商神龙洞投毒)
 1. [教师因课程不合格被要求整改](https://www.zhihu.com/search?q=教师因课程不合格被要求整改)
