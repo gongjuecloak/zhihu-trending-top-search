@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 04 2024 11:10:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 04 2024 12:12:15 GMT+0800 (China Standard Time) -->
 
 1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
 1. [开学第一天](https://www.zhihu.com/search?q=开学第一天)
