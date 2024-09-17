@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 18 2024 05:08:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 18 2024 06:08:59 GMT+0800 (China Standard Time) -->
 
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
 1. [孙颖莎3比0战胜田志希](https://www.zhihu.com/search?q=孙颖莎3比0战胜田志希)
