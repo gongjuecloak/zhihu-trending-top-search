@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 06 2024 02:11:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 03:08:15 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
