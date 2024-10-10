@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 10 2024 21:19:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 10 2024 22:09:36 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [诺贝尔文学奖揭晓](https://www.zhihu.com/search?q=诺贝尔文学奖揭晓)
