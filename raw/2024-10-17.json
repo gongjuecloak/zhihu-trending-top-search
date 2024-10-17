@@ -1,4 +1,6 @@
 [
+  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
+  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
@@ -27,8 +29,6 @@
     "query": "为什么「封神演义」没有列入四大名著",
     "display_query": "为什么「封神演义」没有列入四大名著"
   },
-  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
-  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
   {
     "query": "为什么都在担心中国的产业转移",
     "display_query": "为什么都在担心中国的产业转移"
