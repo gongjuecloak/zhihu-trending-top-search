@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 21 2024 16:14:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 21 2024 17:11:42 GMT+0800 (China Standard Time) -->
 
 1. [世界骨质疏松日](https://www.zhihu.com/search?q=世界骨质疏松日)
 1. [明星现实中真的很漂亮吗](https://www.zhihu.com/search?q=明星现实中真的很漂亮吗)
