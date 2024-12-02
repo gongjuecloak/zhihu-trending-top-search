@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 02 2024 10:24:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 11:30:50 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [](https://www.zhihu.com/search?q=)
@@ -19,6 +19,7 @@
 1. [国考弃考](https://www.zhihu.com/search?q=国考弃考)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=你听过最野的野史有多野)
+1. [Northvolt在美国申请破产保护](https://www.zhihu.com/search?q=Northvolt在美国申请破产保护)
 1. [《封神第二部》定档](https://www.zhihu.com/search?q=《封神第二部》定档)
 
 <!-- END -->
