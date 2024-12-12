@@ -1,6 +1,15 @@
 [
+  {
+    "query": "你最意外的一笔收入是什么",
+    "display_query": "你最意外的一笔收入是什么"
+  },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "独行侠vs雷霆", "display_query": "独行侠vs雷霆" },
+  {
+    "query": "演员知道自己正在拍一部烂片吗",
+    "display_query": "演员知道自己正在拍一部烂片吗"
+  },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   {
     "query": "98 万部老人机被远程控制偷扣话费",
     "display_query": "98 万部老人机被远程控制偷扣话费"
@@ -14,6 +23,7 @@
     "display_query": "向佐穿女装带货首场卖出 5 千万"
   },
   { "query": "《白夜破晓》大结局", "display_query": "《白夜破晓》大结局" },
+  { "query": "于东来回应过度代购", "display_query": "于东来回应过度代购" },
   {
     "query": "韩国检察厅对尹锡悦立案调查",
     "display_query": "韩国检察厅对尹锡悦立案调查"
