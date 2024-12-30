@@ -1,7 +1,8 @@
 [
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
   {
-    "query": "疑似中国 6 代机试飞意味着什么",
-    "display_query": "疑似中国 6 代机试飞意味着什么"
+    "query": "为什么唐尚珺不继续复读了",
+    "display_query": "为什么唐尚珺不继续复读了"
   },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
   { "query": "2024 认真过", "display_query": "2024 认真过" },
@@ -14,6 +15,10 @@
     "display_query": "小红书开店月入三万攻略"
   },
   { "query": "小红书月入三万真假", "display_query": "小红书月入三万真假" },
+  {
+    "query": "疑似中国 6 代机试飞意味着什么",
+    "display_query": "疑似中国 6 代机试飞意味着什么"
+  },
   { "query": "短剧推广授权申请流程", "display_query": "短剧推广授权申请流程" },
   { "query": "男子在魔兽世界卖橙子", "display_query": "男子在魔兽世界卖橙子" },
   { "query": "外卖小哥两年假摔18次", "display_query": "外卖小哥两年假摔18次" },
@@ -32,10 +37,6 @@
     "display_query": "台湾花莲县海域发生4.8级地震"
   },
   { "query": "wbg对战al", "display_query": "wbg对战al" },
-  {
-    "query": "为什么唐尚珺不继续复读了",
-    "display_query": "为什么唐尚珺不继续复读了"
-  },
   { "query": "肯德基中国涨价", "display_query": "肯德基中国涨价" },
   { "query": "滴滴就臭车致歉", "display_query": "滴滴就臭车致歉" },
   { "query": "小米官宣与蔚来合作", "display_query": "小米官宣与蔚来合作" },
