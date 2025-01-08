@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 08 2025 10:11:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 08 2025 11:15:00 GMT+0800 (China Standard Time) -->
 
-1. [腊八节](https://www.zhihu.com/search?q=腊八节)
+1. [年轻人还会置办年货吗](https://www.zhihu.com/search?q=年轻人还会置办年货吗)
+1. [奥特曼年终总结](https://www.zhihu.com/search?q=奥特曼年终总结)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
 1. [地球自转的动力来自哪里](https://www.zhihu.com/search?q=地球自转的动力来自哪里)
@@ -20,6 +21,7 @@
    格式消失了)
 1. [短剧推广能否躺赚](https://www.zhihu.com/search?q=短剧推广能否躺赚)
 1. [一块吧唧被炒到 7 万多](https://www.zhihu.com/search?q=一块吧唧被炒到 7 万多)
+1. [腊八节](https://www.zhihu.com/search?q=腊八节)
 1. [视频号赚钱可行性](https://www.zhihu.com/search?q=视频号赚钱可行性)
 
 <!-- END -->
