@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 24 2025 01:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 24 2025 02:13:36 GMT+0800 (China Standard Time) -->
 
 1. [北方小年](https://www.zhihu.com/search?q=北方小年)
 1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=为什么马的腿断了必须死)
