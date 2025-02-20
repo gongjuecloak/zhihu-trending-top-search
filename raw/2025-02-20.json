@@ -1,9 +1,6 @@
 [
-  {
-    "query": "特斯拉焕新版modely量产",
-    "display_query": "特斯拉焕新版modely量产"
-  },
-  { "query": "黄金牛市走完了吗", "display_query": "黄金牛市走完了吗" },
+  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
+  { "query": "小说推文", "display_query": "小说推文" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -22,6 +19,11 @@
   { "query": "无货源开网店", "display_query": "无货源开网店" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
   {
+    "query": "特斯拉焕新版modely量产",
+    "display_query": "特斯拉焕新版modely量产"
+  },
+  { "query": "黄金牛市走完了吗", "display_query": "黄金牛市走完了吗" },
+  {
     "query": "任天堂在台湾地区设立子公司",
     "display_query": "任天堂在台湾地区设立子公司"
   },
@@ -29,7 +31,6 @@
     "query": "「美队 4」首日票房不到四千万",
     "display_query": "「美队 4」首日票房不到四千万"
   },
-  { "query": "小说推文", "display_query": "小说推文" },
   { "query": "写作能力提升", "display_query": "写作能力提升" },
   { "query": "小说签约赚钱", "display_query": "小说签约赚钱" }
 ]
