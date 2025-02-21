@@ -1,16 +1,10 @@
 [
-  {
-    "query": "deepseek们的成本是怎么计算的",
-    "display_query": "deepseek们的成本是怎么计算的"
-  },
-  {
-    "query": "「哪吒 2」成为全球动画电影票房冠军",
-    "display_query": "「哪吒 2」成为全球动画电影票房冠军"
-  },
+  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
   {
     "query": "为什么甲状腺激素一定要用碘来合成",
     "display_query": "为什么甲状腺激素一定要用碘来合成"
   },
+  { "query": "现货黄金再创新高", "display_query": "现货黄金再创新高" },
   {
     "query": "为什么全网都在黑土木工程",
     "display_query": "为什么全网都在黑土木工程"
@@ -33,7 +27,14 @@
     "query": "格力专卖店改名董明珠健康家",
     "display_query": "格力专卖店改名董明珠健康家"
   },
-  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
+  {
+    "query": "deepseek们的成本是怎么计算的",
+    "display_query": "deepseek们的成本是怎么计算的"
+  },
+  {
+    "query": "「哪吒 2」成为全球动画电影票房冠军",
+    "display_query": "「哪吒 2」成为全球动画电影票房冠军"
+  },
   { "query": "董明珠健康家", "display_query": "董明珠健康家" },
   { "query": "詹姆斯退出全明星正赛", "display_query": "詹姆斯退出全明星正赛" },
   {
