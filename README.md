@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 06 2025 01:10:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 06 2025 02:14:45 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
