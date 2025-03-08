@@ -10,7 +10,6 @@
     "query": "反直觉的地理知识有哪些",
     "display_query": "反直觉的地理知识有哪些"
   },
-  { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
   {
     "query": "DeepSeek 首次公布模型推理优化细节",
     "display_query": "DeepSeek 首次公布模型推理优化细节"
@@ -30,5 +29,6 @@
   {
     "query": "为什么日本出不了 DeepSeek",
     "display_query": "为什么日本出不了 DeepSeek"
-  }
+  },
+  { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" }
 ]
