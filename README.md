@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 09 2025 05:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 09 2025 06:08:15 GMT+0800 (China Standard Time) -->
 
 1. [妇女节](https://www.zhihu.com/search?q=妇女节)
 1. [教资](https://www.zhihu.com/search?q=教资)
