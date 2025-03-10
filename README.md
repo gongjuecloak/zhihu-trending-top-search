@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 10 2025 22:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 10 2025 23:12:06 GMT+0800 (China Standard Time) -->
 
 1. [世界上有多少个和弦](https://www.zhihu.com/search?q=世界上有多少个和弦)
 1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=上海申花vs川崎前锋)
