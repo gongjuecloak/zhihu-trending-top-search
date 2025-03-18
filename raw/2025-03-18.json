@@ -5,10 +5,6 @@
     "query": "以军大规模空袭加沙地带",
     "display_query": "以军大规模空袭加沙地带"
   },
-  {
-    "query": "社会消费品零售总额增长",
-    "display_query": "社会消费品零售总额增长"
-  },
   { "query": "丁俊晖无缘八强", "display_query": "丁俊晖无缘八强" },
   { "query": "孙颖莎vs陈幸同", "display_query": "孙颖莎vs陈幸同" },
   {
@@ -27,6 +23,10 @@
   {
     "query": "王大陆被裁定交保500万",
     "display_query": "王大陆被裁定交保500万"
+  },
+  {
+    "query": "社会消费品零售总额增长",
+    "display_query": "社会消费品零售总额增长"
   },
   { "query": "勇士114:102尼克斯", "display_query": "勇士114:102尼克斯" },
   {
