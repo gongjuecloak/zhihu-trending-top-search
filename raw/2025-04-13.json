@@ -1,13 +1,9 @@
 [
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "a股", "display_query": "a股" },
+  { "query": "全国大学生英语竞赛", "display_query": "全国大学生英语竞赛" },
   { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "美国重新工业化有多难", "display_query": "美国重新工业化有多难" },
   { "query": "为什么河流能劈开山脉", "display_query": "为什么河流能劈开山脉" },
-  {
-    "query": "Meta 发布 Llama 4 模型",
-    "display_query": "Meta 发布 Llama 4 模型"
-  },
   {
     "query": "男子在山姆采购550万元商品遭冒领",
     "display_query": "男子在山姆采购550万元商品遭冒领"
@@ -20,5 +16,11 @@
   {
     "query": "网友拍到因日食出现的恶魔之角",
     "display_query": "网友拍到因日食出现的恶魔之角"
+  },
+  { "query": "《棋士》大结局", "display_query": "《棋士》大结局" },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  {
+    "query": "Meta 发布 Llama 4 模型",
+    "display_query": "Meta 发布 Llama 4 模型"
   }
 ]
