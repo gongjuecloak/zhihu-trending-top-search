@@ -9,10 +9,6 @@
   { "query": "穿越时光的旧物", "display_query": "穿越时光的旧物" },
   { "query": "中日友好医院肖飞", "display_query": "中日友好医院肖飞" },
   {
-    "query": "网友吐槽 iPhone 闹钟调休不响导致迟到",
-    "display_query": "网友吐槽 iPhone 闹钟调休不响导致迟到"
-  },
-  {
     "query": "中日友好医院通报肖某问题属实",
     "display_query": "中日友好医院通报肖某问题属实"
   },
@@ -23,5 +19,13 @@
   {
     "query": "知网已搜不到董袭莹论文",
     "display_query": "知网已搜不到董袭莹论文"
+  },
+  {
+    "query": "OpenAI 将为 ChatGPT 增加购物功能",
+    "display_query": "OpenAI 将为 ChatGPT 增加购物功能"
+  },
+  {
+    "query": "网友吐槽 iPhone 闹钟调休不响导致迟到",
+    "display_query": "网友吐槽 iPhone 闹钟调休不响导致迟到"
   }
 ]
