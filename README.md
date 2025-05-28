@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 28 2025 08:57:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 28 2025 13:12:09 GMT+0800 (China Standard Time) -->
 
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [人为什么要睡觉](https://www.zhihu.com/search?q=人为什么要睡觉)
