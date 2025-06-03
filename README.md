@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 03 2025 19:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 03 2025 21:27:26 GMT+0800 (China Standard Time) -->
 
 1. [世界无烟日](https://www.zhihu.com/search?q=世界无烟日)
+1. [李在明](https://www.zhihu.com/search?q=李在明)
 1. [小沈阳演唱会](https://www.zhihu.com/search?q=小沈阳演唱会)
 1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=郑钦文vs萨巴伦卡)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=你见过哪些结婚作死的行为)
