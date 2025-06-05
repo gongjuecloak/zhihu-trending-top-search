@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 05 2025 12:19:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 05 2025 13:12:35 GMT+0800 (China Standard Time) -->
 
 1. [李在明](https://www.zhihu.com/search?q=李在明)
 1. [国内油价上调](https://www.zhihu.com/search?q=国内油价上调)
