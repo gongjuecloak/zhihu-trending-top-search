@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 18:13:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 19:10:26 GMT+0800 (China Standard Time) -->
 
-1. [6块钱一碗的面被通报宴请](https://www.zhihu.com/search?q=6块钱一碗的面被通报宴请)
+1. [HLE对战T1](https://www.zhihu.com/search?q=HLE对战T1)
+1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=云南蘑菇能不能让盲人看到小人)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
@@ -19,6 +20,7 @@
 1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618 洗烘套装推荐)
 1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=能提升幸福感的家居好物)
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=让家充满艺术气息的好物)
+1. [6块钱一碗的面被通报宴请](https://www.zhihu.com/search?q=6块钱一碗的面被通报宴请)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618 好看的家具推荐)
 1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=适合懒人入手的做饭好物)
