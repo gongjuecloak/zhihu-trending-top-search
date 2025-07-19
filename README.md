@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 20 2025 03:08:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 20 2025 06:11:23 GMT+0800 (China Standard Time) -->
 
 1. [薛之谦新歌](https://www.zhihu.com/search?q=薛之谦新歌)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=郑钦文退赛)
