@@ -8,16 +8,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 18 2025 15:16:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 18 2025 21:29:57 GMT+0800 (China Standard Time) -->
 
+1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=我国成功发射卫星互联网低轨卫星)
+1. [高铁去泡面化](https://www.zhihu.com/search?q=高铁去泡面化)
+1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=男童被人带去冒名顶替打疫苗)
+1. [人形机器人运动会首金诞生](https://www.zhihu.com/search?q=人形机器人运动会首金诞生)
+1. [水电站擅自排淤致4万条鱼死亡](https://www.zhihu.com/search?q=水电站擅自排淤致4万条鱼死亡)
+1. [中国算力总规模全球第二](https://www.zhihu.com/search?q=中国算力总规模全球第二)
+1. [娇韵诗千元抗老面霜疑致疤痕增生](https://www.zhihu.com/search?q=娇韵诗千元抗老面霜疑致疤痕增生)
+1. [越野跑爱好者误食毒蘑菇去世](https://www.zhihu.com/search?q=越野跑爱好者误食毒蘑菇去世)
+1. [蓝箭朱雀二号 E
+   遥三运载火箭发射失利](https://www.zhihu.com/search?q=蓝箭朱雀二号 E
+   遥三运载火箭发射失利)
+1. [微信推出聊天引用部分文字功能](https://www.zhihu.com/search?q=微信推出聊天引用部分文字功能)
 1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
 1. [个人单笔5万元以下消费可享贴息](https://www.zhihu.com/search?q=个人单笔5万元以下消费可享贴息)
 1. [半岛电视台记者团队遭以军袭击](https://www.zhihu.com/search?q=半岛电视台记者团队遭以军袭击)
 1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=阿迪达斯就新鞋抄袭道歉)
 1. [印度洋上空现10个神秘黑暗空洞](https://www.zhihu.com/search?q=印度洋上空现10个神秘黑暗空洞)
 1. [韩国星巴克禁止携带大型工作设备](https://www.zhihu.com/search?q=韩国星巴克禁止携带大型工作设备)
-1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=男童被人带去冒名顶替打疫苗)
-1. [人形机器人运动会首金诞生](https://www.zhihu.com/search?q=人形机器人运动会首金诞生)
 1. [官方通报肖某董某莹事件调查处置及问责情况](https://www.zhihu.com/search?q=官方通报肖某董某莹事件调查处置及问责情况)
 1. [官方通报肖某董某莹事件调查处置情况](https://www.zhihu.com/search?q=官方通报肖某董某莹事件调查处置情况)
 
