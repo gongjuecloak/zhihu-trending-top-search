@@ -1,6 +1,5 @@
 [
   { "query": "A股", "display_query": "A股" },
-  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -24,7 +23,12 @@
     "display_query": "电视剧《生万物》大结局"
   },
   {
+    "query": "何晟铭说和于正是很近的朋友",
+    "display_query": "何晟铭说和于正是很近的朋友"
+  },
+  {
     "query": "美团订单被曝退款未到账",
     "display_query": "美团订单被曝退款未到账"
-  }
+  },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" }
 ]
