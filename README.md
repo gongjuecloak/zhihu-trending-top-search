@@ -8,18 +8,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 29 2025 10:21:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 29 2025 21:20:45 GMT+0800 (China Standard Time) -->
 
+1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=我国成功发射卫星互联网低轨卫星)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [欧冠抽签](https://www.zhihu.com/search?q=欧冠抽签)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=人的大脑会不会出现「过拟合」病)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=一个人可以蠢到什么程度)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=体制内你见到最狠的是什么样)
+1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=老潘财商 虞书欣)
+1. [美拟对印度征50%关税](https://www.zhihu.com/search?q=美拟对印度征50%关税)
+1. [大学生谈起「理性恋爱」](https://www.zhihu.com/search?q=大学生谈起「理性恋爱」)
 1. [ LV 口红首发中国 1200元 一支](https://www.zhihu.com/search?q= LV
    口红首发中国 1200元 一支)
 1. [美团订单被曝退款未到账](https://www.zhihu.com/search?q=美团订单被曝退款未到账)
-1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=老潘财商 虞书欣)
 1. [小众丑菜越来越多](https://www.zhihu.com/search?q=小众丑菜越来越多)
 
 <!-- END -->
