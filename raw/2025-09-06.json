@@ -11,7 +11,6 @@
     "query": "为什么裁员裁的都是干活的",
     "display_query": "为什么裁员裁的都是干活的"
   },
-  { "query": "steam 崩了", "display_query": "steam 崩了" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
@@ -26,5 +25,7 @@
     "query": "胖东来为什么只能在河南搞成",
     "display_query": "胖东来为什么只能在河南搞成"
   },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" }
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  { "query": "鸿蒙新版本好不好用", "display_query": "鸿蒙新版本好不好用" },
+  { "query": "steam 崩了", "display_query": "steam 崩了" }
 ]
