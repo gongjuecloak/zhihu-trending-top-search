@@ -8,12 +8,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 16 2025 18:11:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 16 2025 23:11:53 GMT+0800 (China Standard Time) -->
 
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [什么是顶级的思维](https://www.zhihu.com/search?q=什么是顶级的思维)
+1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
+1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=买了小米SU7的人现在怎么样了)
+1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=孩子为什么越大越不愿意跟我们说话)
+1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
+1. [中国稀土供应链到底强成什么样了](https://www.zhihu.com/search?q=中国稀土供应链到底强成什么样了)
+1. [胖东来为什么只能在河南搞成](https://www.zhihu.com/search?q=胖东来为什么只能在河南搞成)
+1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
+1. [全国多地暴雨](https://www.zhihu.com/search?q=全国多地暴雨)
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [王楚钦男单夺冠](https://www.zhihu.com/search?q=王楚钦男单夺冠)
 1. [莫斯科交易所暂停股票交易](https://www.zhihu.com/search?q=莫斯科交易所暂停股票交易)
-1. [什么是顶级的思维](https://www.zhihu.com/search?q=什么是顶级的思维)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
 1. [于朦胧](https://www.zhihu.com/search?q=于朦胧)
 1. [于朦胧确认去世](https://www.zhihu.com/search?q=于朦胧确认去世)
