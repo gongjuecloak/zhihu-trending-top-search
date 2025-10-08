@@ -8,12 +8,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 08 2025 07:09:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 08 2025 11:24:10 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=诺贝尔化学奖)
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖揭晓)
 1. [央视中秋晚会](https://www.zhihu.com/search?q=央视中秋晚会)
+1. [假期最后一天](https://www.zhihu.com/search?q=假期最后一天)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=你什么时候意识到自己没见过世面)
+1. [假期综合征](https://www.zhihu.com/search?q=假期综合征)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=电车贬值整体幅度为什么比油车贬值更大)
 1. [台风红色预警发布](https://www.zhihu.com/search?q=台风红色预警发布)
 1. [为什么现在那么多小孩得抑郁](https://www.zhihu.com/search?q=为什么现在那么多小孩得抑郁)

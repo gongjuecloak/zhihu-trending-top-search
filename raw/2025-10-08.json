@@ -5,10 +5,12 @@
     "display_query": "诺贝尔生理学或医学奖揭晓"
   },
   { "query": "央视中秋晚会", "display_query": "央视中秋晚会" },
+  { "query": "假期最后一天", "display_query": "假期最后一天" },
   {
     "query": "你什么时候意识到自己没见过世面",
     "display_query": "你什么时候意识到自己没见过世面"
   },
+  { "query": "假期综合征", "display_query": "假期综合征" },
   {
     "query": "电车贬值整体幅度为什么比油车贬值更大",
     "display_query": "电车贬值整体幅度为什么比油车贬值更大"
