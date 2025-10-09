@@ -1,19 +1,34 @@
 [
   { "query": "诺贝尔化学奖", "display_query": "诺贝尔化学奖" },
+  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖" },
   {
-    "query": "诺贝尔生理学或医学奖揭晓",
-    "display_query": "诺贝尔生理学或医学奖揭晓"
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
   },
-  { "query": "假期最后一天", "display_query": "假期最后一天" },
   {
     "query": "你什么时候意识到自己没见过世面",
     "display_query": "你什么时候意识到自己没见过世面"
+  },
+  {
+    "query": "为什么优秀员工往往最先离职",
+    "display_query": "为什么优秀员工往往最先离职"
   },
   { "query": "假期综合征", "display_query": "假期综合征" },
   {
     "query": "电车贬值整体幅度为什么比油车贬值更大",
     "display_query": "电车贬值整体幅度为什么比油车贬值更大"
   },
+  {
+    "query": "早期的的网红后来怎么样了",
+    "display_query": "早期的的网红后来怎么样了"
+  },
+  { "query": "王一博赛车", "display_query": "王一博赛车" },
+  { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
+  {
+    "query": "诺贝尔生理学或医学奖揭晓",
+    "display_query": "诺贝尔生理学或医学奖揭晓"
+  },
+  { "query": "假期最后一天", "display_query": "假期最后一天" },
   {
     "query": "为什么现在那么多小孩得抑郁",
     "display_query": "为什么现在那么多小孩得抑郁"
