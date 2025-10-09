@@ -1,6 +1,5 @@
 [
   { "query": "诺贝尔化学奖", "display_query": "诺贝尔化学奖" },
-  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -24,6 +23,11 @@
   },
   { "query": "王一博赛车", "display_query": "王一博赛车" },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
+  {
+    "query": "演员知道自己正在拍一部烂片吗",
+    "display_query": "演员知道自己正在拍一部烂片吗"
+  },
+  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖" },
   {
     "query": "诺贝尔生理学或医学奖揭晓",
     "display_query": "诺贝尔生理学或医学奖揭晓"
