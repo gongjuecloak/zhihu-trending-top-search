@@ -8,17 +8,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 13 2025 05:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 13 2025 23:11:27 GMT+0800 (China Standard Time) -->
 
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [为什么纯电车没有备胎](https://www.zhihu.com/search?q=为什么纯电车没有备胎)
+1. [张靓颖摔下舞台后先安慰大家](https://www.zhihu.com/search?q=张靓颖摔下舞台后先安慰大家)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=为什么说男人至死都是少年)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=你因为什么事情报过警)
 1. [宗馥莉](https://www.zhihu.com/search?q=宗馥莉)
+1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
+1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [打工人有哪些「至爽时刻」](https://www.zhihu.com/search?q=打工人有哪些「至爽时刻」)
+1. [一部电影会失传吗](https://www.zhihu.com/search?q=一部电影会失传吗)
+1. [如何看待美国识字率只有
+   79％](https://www.zhihu.com/search?q=如何看待美国识字率只有 79％)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [宗馥莉辞职](https://www.zhihu.com/search?q=宗馥莉辞职)
 1. [美股暴跌](https://www.zhihu.com/search?q=美股暴跌)
-1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
 1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=诺贝尔物理学奖揭晓)
-1. [一部电影会失传吗](https://www.zhihu.com/search?q=一部电影会失传吗)
 1. [刘邦凭什么这么听萧何的话](https://www.zhihu.com/search?q=刘邦凭什么这么听萧何的话)
 
 <!-- END -->
