@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 14 2025 12:13:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 14 2025 15:12:03 GMT+0800 (China Standard Time) -->
 
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
