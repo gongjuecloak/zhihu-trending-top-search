@@ -3,7 +3,6 @@
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
   },
-  { "query": "宗馥莉", "display_query": "宗馥莉" },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
@@ -29,5 +28,7 @@
   {
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
-  }
+  },
+  { "query": "人真的一定要上班吗", "display_query": "人真的一定要上班吗" },
+  { "query": "宗馥莉", "display_query": "宗馥莉" }
 ]
