@@ -8,17 +8,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 10:43:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 11:42:44 GMT+0800 (China Standard Time) -->
 
-1. [苏超半决赛](https://www.zhihu.com/search?q=苏超半决赛)
-1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=闻泰科技147亿半导体资产被荷兰冻结)
-1. [红山动物园为大猩猩征名](https://www.zhihu.com/search?q=红山动物园为大猩猩征名)
+1. [西安城墙已变成巨型生态缸了](https://www.zhihu.com/search?q=西安城墙已变成巨型生态缸了)
+1. [苏超半决赛：南京vs泰州](https://www.zhihu.com/search?q=苏超半决赛：南京vs泰州)
+1. [我国成功发射力箭一号遥八运载火箭](https://www.zhihu.com/search?q=我国成功发射力箭一号遥八运载火箭)
 1. [《再见爱人 第五季》第一期](https://www.zhihu.com/search?q=《再见爱人
    第五季》第一期)
 1. [固态电池新突破：新能源车续航有望翻倍](https://www.zhihu.com/search?q=固态电池新突破：新能源车续航有望翻倍)
 1. [何炅自曝精力大不如前](https://www.zhihu.com/search?q=何炅自曝精力大不如前)
-1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=高速服务区现「野人小孩」)
+1. [周杰伦好友代其投资上亿元比特币后失联](https://www.zhihu.com/search?q=周杰伦好友代其投资上亿元比特币后失联)
+1. [9 月各线城市房价环比下降](https://www.zhihu.com/search?q=9
+   月各线城市房价环比下降)
+1. [9月70城房价](https://www.zhihu.com/search?q=9月70城房价)
 1. [何美延梁淞回应家暴事件](https://www.zhihu.com/search?q=何美延梁淞回应家暴事件)
+1. [苏超半决赛](https://www.zhihu.com/search?q=苏超半决赛)
+1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=闻泰科技147亿半导体资产被荷兰冻结)
+1. [红山动物园为大猩猩征名](https://www.zhihu.com/search?q=红山动物园为大猩猩征名)
+1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=高速服务区现「野人小孩」)
 1. [国考报考首日近19万人报名](https://www.zhihu.com/search?q=国考报考首日近19万人报名)
 1. [丰巢创始人兼CEO徐育斌被曝辞职](https://www.zhihu.com/search?q=丰巢创始人兼CEO徐育斌被曝辞职)
 1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=网传高校副教授未过考核转岗保安)
