@@ -8,8 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 29 2025 10:43:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 29 2025 11:42:33 GMT+0800 (China Standard Time) -->
 
+1. [芒果综艺《我们来了》将回归](https://www.zhihu.com/search?q=芒果综艺《我们来了》将回归)
+1. [暗黑破坏神2最喜欢哪个职业](https://www.zhihu.com/search?q=暗黑破坏神2最喜欢哪个职业)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=中年男人最大的悲哀是什么)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
