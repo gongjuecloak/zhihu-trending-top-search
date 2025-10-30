@@ -1,14 +1,10 @@
 [
-  { "query": "重阳节", "display_query": "重阳节" },
-  {
-    "query": "为什么说重庆是男人的天堂",
-    "display_query": "为什么说重庆是男人的天堂"
-  },
+  { "query": "英伟达举办 GTC 大会", "display_query": "英伟达举办 GTC 大会" },
   {
     "query": "中年男人最大的悲哀是什么",
     "display_query": "中年男人最大的悲哀是什么"
   },
-  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
+  { "query": "重阳节", "display_query": "重阳节" },
   {
     "query": "有什么骇人听闻的真实案件",
     "display_query": "有什么骇人听闻的真实案件"
@@ -29,5 +25,14 @@
     "query": "从哪些方面可以看出钱不好赚了",
     "display_query": "从哪些方面可以看出钱不好赚了"
   },
-  { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" }
+  { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
+  {
+    "query": "你卡过最厉害的 bug 是什么",
+    "display_query": "你卡过最厉害的 bug 是什么"
+  },
+  {
+    "query": "为什么说重庆是男人的天堂",
+    "display_query": "为什么说重庆是男人的天堂"
+  },
+  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" }
 ]
