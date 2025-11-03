@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 03 2025 12:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 03 2025 14:19:07 GMT+0800 (China Standard Time) -->
 
 1. [苏超总决赛](https://www.zhihu.com/search?q=苏超总决赛)
-1. [全球投资者正以惊人速度从印度撤资](https://www.zhihu.com/search?q=全球投资者正以惊人速度从印度撤资)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=父母腿脚不便 辅助工具)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=老人走路累
    外骨骼有用吗)
@@ -23,6 +22,8 @@
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=医生测评外骨骼机器人)
 1. [李银河谈老年人与 AI](https://www.zhihu.com/search?q=李银河谈老年人与 AI)
 1. [李银河视频播客](https://www.zhihu.com/search?q=李银河视频播客)
+1. [李银河谈 AI 时代](https://www.zhihu.com/search?q=李银河谈 AI 时代)
+1. [全球投资者正以惊人速度从印度撤资](https://www.zhihu.com/search?q=全球投资者正以惊人速度从印度撤资)
 1. [理想就车辆起火道歉](https://www.zhihu.com/search?q=理想就车辆起火道歉)
 1. [国科大团队创新药物合成技术登《自然》主刊](https://www.zhihu.com/search?q=国科大团队创新药物合成技术登《自然》主刊)
 1. [体制内比到最后拼的是什么](https://www.zhihu.com/search?q=体制内比到最后拼的是什么)
