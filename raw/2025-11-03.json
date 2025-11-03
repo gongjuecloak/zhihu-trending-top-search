@@ -1,4 +1,17 @@
 [
+  {
+    "query": "预防老人跌倒 助行设备",
+    "display_query": "预防老人跌倒 助行设备"
+  },
+  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
+  {
+    "query": "为什么现在的员工都不爱公司",
+    "display_query": "为什么现在的员工都不爱公司"
+  },
+  {
+    "query": "你住酒店时有过哪些奇葩经历",
+    "display_query": "你住酒店时有过哪些奇葩经历"
+  },
   { "query": "苏超总决赛", "display_query": "苏超总决赛" },
   {
     "query": "父母腿脚不便 辅助工具",
@@ -12,10 +25,7 @@
     "query": "长辈上下楼梯困难 解决方案",
     "display_query": "长辈上下楼梯困难 解决方案"
   },
-  {
-    "query": "预防老人跌倒 助行设备",
-    "display_query": "预防老人跌倒 助行设备"
-  },
+  { "query": "S15 淘汰赛 T1 vs TES", "display_query": "S15 淘汰赛 T1 vs TES" },
   {
     "query": "老年人独立出行 辅助工具",
     "display_query": "老年人独立出行 辅助工具"
