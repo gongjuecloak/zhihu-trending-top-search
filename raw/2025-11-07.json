@@ -1,12 +1,6 @@
 [
-  {
-    "query": "福建舰入列 如何评价其影响",
-    "display_query": "福建舰入列 如何评价其影响"
-  },
-  {
-    "query": "你觉得今年全球总决赛冠军是谁",
-    "display_query": "你觉得今年全球总决赛冠军是谁"
-  },
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
+  { "query": "今日立冬", "display_query": "今日立冬" },
   {
     "query": "你知道的最震惊的冷知识是什么",
     "display_query": "你知道的最震惊的冷知识是什么"
@@ -33,8 +27,14 @@
     "query": "大家提升自己最快的方式是什么",
     "display_query": "大家提升自己最快的方式是什么"
   },
-  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
-  { "query": "今日立冬", "display_query": "今日立冬" },
+  {
+    "query": "福建舰入列 如何评价其影响",
+    "display_query": "福建舰入列 如何评价其影响"
+  },
+  {
+    "query": "你觉得今年全球总决赛冠军是谁",
+    "display_query": "你觉得今年全球总决赛冠军是谁"
+  },
   {
     "query": "你目前最大的困扰是什么",
     "display_query": "你目前最大的困扰是什么"
