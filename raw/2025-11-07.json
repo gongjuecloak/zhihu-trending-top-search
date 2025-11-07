@@ -1,6 +1,12 @@
 [
-  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
-  { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
+  {
+    "query": "字节招聘人形机器人资深专家",
+    "display_query": "字节招聘人形机器人资深专家"
+  },
+  {
+    "query": "马斯克万亿美元薪酬方案被拒",
+    "display_query": "马斯克万亿美元薪酬方案被拒"
+  },
   {
     "query": "职业运动员究竟有多厉害",
     "display_query": "职业运动员究竟有多厉害"
@@ -26,5 +32,7 @@
   {
     "query": "有钱人的生活奢侈到什么程度",
     "display_query": "有钱人的生活奢侈到什么程度"
-  }
+  },
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
+  { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" }
 ]
