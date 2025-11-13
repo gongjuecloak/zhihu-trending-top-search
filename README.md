@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 14 2025 00:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 14 2025 01:12:17 GMT+0800 (China Standard Time) -->
 
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
