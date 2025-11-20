@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 20 2025 22:11:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 20 2025 23:12:33 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [湖人vs爵士](https://www.zhihu.com/search?q=湖人vs爵士)
