@@ -1,5 +1,12 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "美国是如何度过大萧条的",
+    "display_query": "美国是如何度过大萧条的"
+  },
+  {
+    "query": "核电站是否会像原子弹那样爆炸",
+    "display_query": "核电站是否会像原子弹那样爆炸"
+  },
   {
     "query": "可以一次性给孩子一年的生活费吗",
     "display_query": "可以一次性给孩子一年的生活费吗"
@@ -11,11 +18,16 @@
   },
   { "query": "黄河进入凌汛期", "display_query": "黄河进入凌汛期" },
   { "query": "火箭vs骑士", "display_query": "火箭vs骑士" },
+  {
+    "query": "有哪些信、达、不雅的翻译",
+    "display_query": "有哪些信、达、不雅的翻译"
+  },
   { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
   {
     "query": "为什么流萤的人气这么高",
     "display_query": "为什么流萤的人气这么高"
   },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "在中国搭讪有多难", "display_query": "在中国搭讪有多难" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
 ]
