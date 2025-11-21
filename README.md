@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 11:38:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 12:15:06 GMT+0800 (China Standard Time) -->
 
-1. [美国是如何度过大萧条的](https://www.zhihu.com/search?q=美国是如何度过大萧条的)
-1. [核电站是否会像原子弹那样爆炸](https://www.zhihu.com/search?q=核电站是否会像原子弹那样爆炸)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [可以一次性给孩子一年的生活费吗](https://www.zhihu.com/search?q=可以一次性给孩子一年的生活费吗)
 1. [湖人战胜爵士](https://www.zhihu.com/search?q=湖人战胜爵士)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=为什么中国选择发展高铁而不是廉价航空)
@@ -20,8 +19,9 @@
 1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=有哪些信、达、不雅的翻译)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [为什么流萤的人气这么高](https://www.zhihu.com/search?q=为什么流萤的人气这么高)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [在中国搭讪有多难](https://www.zhihu.com/search?q=在中国搭讪有多难)
+1. [美国是如何度过大萧条的](https://www.zhihu.com/search?q=美国是如何度过大萧条的)
+1. [核电站是否会像原子弹那样爆炸](https://www.zhihu.com/search?q=核电站是否会像原子弹那样爆炸)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 
 <!-- END -->
