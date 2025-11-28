@@ -8,9 +8,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 28 2025 21:24:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 28 2025 22:11:54 GMT+0800 (China Standard Time) -->
 
-1. [最无用的节俭行为](https://www.zhihu.com/search?q=最无用的节俭行为)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
@@ -20,6 +19,8 @@
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=勇士vs火箭)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [最无用的节俭行为](https://www.zhihu.com/search?q=最无用的节俭行为)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 
 <!-- END -->
