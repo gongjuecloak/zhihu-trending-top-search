@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 07 2025 07:10:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 07 2025 09:04:23 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
 1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
