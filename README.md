@@ -8,11 +8,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 07:11:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 08:58:27 GMT+0800 (China Standard Time) -->
 
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [省考](https://www.zhihu.com/search?q=省考)
+1. [日本地震](https://www.zhihu.com/search?q=日本地震)
 1. [尖叫之夜](https://www.zhihu.com/search?q=尖叫之夜)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=勇士vs骑士)
 1. [火箭vs独行侠](https://www.zhihu.com/search?q=火箭vs独行侠)
