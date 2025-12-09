@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 21:29:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 22:13:55 GMT+0800 (China Standard Time) -->
 
-1. [棒棒堂小煜宣布离婚](https://www.zhihu.com/search?q=棒棒堂小煜宣布离婚)
+1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=中俄两军组织实施联合空中战略巡航)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [省考](https://www.zhihu.com/search?q=省考)
 1. [尖叫之夜](https://www.zhihu.com/search?q=尖叫之夜)
@@ -20,8 +20,8 @@
 1. [太阳vs火箭](https://www.zhihu.com/search?q=太阳vs火箭)
 1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=写西幻该如何避免写成中式西幻)
 1. [维斯塔潘杆位](https://www.zhihu.com/search?q=维斯塔潘杆位)
+1. [棒棒堂小煜宣布离婚](https://www.zhihu.com/search?q=棒棒堂小煜宣布离婚)
 1. [F1](https://www.zhihu.com/search?q=F1)
-1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=中俄两军组织实施联合空中战略巡航)
 1. [如何评价电视剧金婚](https://www.zhihu.com/search?q=如何评价电视剧金婚)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)
 
