@@ -1,8 +1,9 @@
 [
   {
-    "query": "什么年纪才能看清社会的本质",
-    "display_query": "什么年纪才能看清社会的本质"
+    "query": "中俄两军组织实施联合空中战略巡航",
+    "display_query": "中俄两军组织实施联合空中战略巡航"
   },
+  { "query": "省考", "display_query": "省考" },
   { "query": "勇士vs骑士", "display_query": "勇士vs骑士" },
   { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" },
   {
@@ -24,12 +25,11 @@
   },
   { "query": "今晚下调油价", "display_query": "今晚下调油价" },
   {
-    "query": "人在什么情况下成长最快",
-    "display_query": "人在什么情况下成长最快"
+    "query": "什么年纪才能看清社会的本质",
+    "display_query": "什么年纪才能看清社会的本质"
   },
   {
-    "query": "中俄两军组织实施联合空中战略巡航",
-    "display_query": "中俄两军组织实施联合空中战略巡航"
-  },
-  { "query": "省考", "display_query": "省考" }
+    "query": "人在什么情况下成长最快",
+    "display_query": "人在什么情况下成长最快"
+  }
 ]
