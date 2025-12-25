@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 25 2025 08:59:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 25 2025 10:55:43 GMT+0800 (China Standard Time) -->
 
-1. [京东巴黎仓库遭盗窃损失超3亿元](https://www.zhihu.com/search?q=京东巴黎仓库遭盗窃损失超3亿元)
-1. [现货黄金刚刚逼近4500美元关口](https://www.zhihu.com/search?q=现货黄金刚刚逼近4500美元关口)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
@@ -20,8 +19,9 @@
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
 1. [为何现在的成年人都没有大人的感觉](https://www.zhihu.com/search?q=为何现在的成年人都没有大人的感觉)
-1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
+1. [京东巴黎仓库遭盗窃损失超3亿元](https://www.zhihu.com/search?q=京东巴黎仓库遭盗窃损失超3亿元)
+1. [现货黄金刚刚逼近4500美元关口](https://www.zhihu.com/search?q=现货黄金刚刚逼近4500美元关口)
 
 <!-- END -->
 
