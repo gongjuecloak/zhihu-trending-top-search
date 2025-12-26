@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 26 2025 13:14:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 26 2025 14:19:59 GMT+0800 (China Standard Time) -->
 
-1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
+1. [监视员工的软件被公开叫卖](https://www.zhihu.com/search?q=监视员工的软件被公开叫卖)
+1. [陈芋汐否认后台](https://www.zhihu.com/search?q=陈芋汐否认后台)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [为何现在的成年人都没有大人的感觉](https://www.zhihu.com/search?q=为何现在的成年人都没有大人的感觉)
@@ -19,6 +20,7 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [那些过气的明星后来怎么样了](https://www.zhihu.com/search?q=那些过气的明星后来怎么样了)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 
 <!-- END -->
