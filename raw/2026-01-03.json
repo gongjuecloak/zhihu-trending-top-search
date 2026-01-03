@@ -1,5 +1,6 @@
 [
-  { "query": "年度报告", "display_query": "年度报告" },
+  { "query": "万向钱潮涨停", "display_query": "万向钱潮涨停" },
+  { "query": "知乎年度视频", "display_query": "知乎年度视频" },
   {
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
@@ -26,6 +27,7 @@
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
+  { "query": "年度报告", "display_query": "年度报告" },
   {
     "query": "普通家庭对孩子最好的托举是什么",
     "display_query": "普通家庭对孩子最好的托举是什么"
