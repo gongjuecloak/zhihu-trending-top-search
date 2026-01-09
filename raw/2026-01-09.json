@@ -1,9 +1,5 @@
 [
-  { "query": "湖人vs鹈鹕", "display_query": "湖人vs鹈鹕" },
-  {
-    "query": "有哪些瞬间你秒懂了别人的暗示",
-    "display_query": "有哪些瞬间你秒懂了别人的暗示"
-  },
+  { "query": "涌现是伪科学吗", "display_query": "涌现是伪科学吗" },
   {
     "query": "哪个角色小时候讨厌长大就理解了",
     "display_query": "哪个角色小时候讨厌长大就理解了"
@@ -28,6 +24,11 @@
     "display_query": "大家提升自己最快的方式是什么"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "湖人vs鹈鹕", "display_query": "湖人vs鹈鹕" },
+  {
+    "query": "有哪些瞬间你秒懂了别人的暗示",
+    "display_query": "有哪些瞬间你秒懂了别人的暗示"
+  },
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
