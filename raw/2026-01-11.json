@@ -1,8 +1,9 @@
 [
   {
-    "query": "为什么在中国邮箱不流行",
-    "display_query": "为什么在中国邮箱不流行"
+    "query": "一加turbo6性能配置介绍",
+    "display_query": "一加turbo6性能配置介绍"
   },
+  { "query": "陈幸同4比3张本美和", "display_query": "陈幸同4比3张本美和" },
   { "query": "火箭vs开拓者", "display_query": "火箭vs开拓者" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
@@ -25,6 +26,10 @@
   {
     "query": "普通家庭对孩子最好的托举是什么",
     "display_query": "普通家庭对孩子最好的托举是什么"
+  },
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
   },
   {
     "query": "什么家庭能养出松弛感的孩子",
