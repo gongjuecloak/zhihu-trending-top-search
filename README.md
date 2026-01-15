@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 15 2026 19:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 15 2026 20:26:29 GMT+0800 (China Standard Time) -->
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
+1. [推荐一个耐玩的游戏](https://www.zhihu.com/search?q=推荐一个耐玩的游戏)
+1. [死了么app更名为demumu](https://www.zhihu.com/search?q=死了么app更名为demumu)
 1. [国考成绩](https://www.zhihu.com/search?q=国考成绩)
 1. [国考分数线公布](https://www.zhihu.com/search?q=国考分数线公布)
 1. [降息](https://www.zhihu.com/search?q=降息)
@@ -19,6 +20,7 @@
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=掘金vs鹈鹕)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=邓布利多为什么要让海格成为老师)
+1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
 1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=普通家庭怎么带孩子见世面)
 1. [网友称LPL北京JDG主场大量余票堆积](https://www.zhihu.com/search?q=网友称LPL北京JDG主场大量余票堆积)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
