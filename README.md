@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 11:42:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 12:43:19 GMT+0800 (China Standard Time) -->
 
+1. [嫣然医院房东回应翻倍涨租](https://www.zhihu.com/search?q=嫣然医院房东回应翻倍涨租)
 1. [聂卫平](https://www.zhihu.com/search?q=聂卫平)
 1. [聂卫平战日本特意穿了国乒球衣](https://www.zhihu.com/search?q=聂卫平战日本特意穿了国乒球衣)
 1. [聂卫平去世](https://www.zhihu.com/search?q=聂卫平去世)
