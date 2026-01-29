@@ -1,7 +1,18 @@
 [
-  { "query": "虚函数效率真的低吗", "display_query": "虚函数效率真的低吗" },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  {
+    "query": "沪深两市成交额突破5000亿元",
+    "display_query": "沪深两市成交额突破5000亿元"
+  },
+  {
+    "query": "美联储宣布维持基准利率不变",
+    "display_query": "美联储宣布维持基准利率不变"
+  },
+  { "query": "如何评价大冰", "display_query": "如何评价大冰" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   { "query": "湖人vs骑士", "display_query": "湖人vs骑士" },
   { "query": "火箭vs灰熊", "display_query": "火箭vs灰熊" },
+  { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   {
     "query": "哪些东西已经贵到不值得买了",
     "display_query": "哪些东西已经贵到不值得买了"
@@ -10,6 +21,7 @@
     "query": "你觉得学英语最大的阻碍是什么",
     "display_query": "你觉得学英语最大的阻碍是什么"
   },
+  { "query": "虚函数效率真的低吗", "display_query": "虚函数效率真的低吗" },
   {
     "query": "北方用饺子接待客人是重视吗",
     "display_query": "北方用饺子接待客人是重视吗"
@@ -24,8 +36,6 @@
     "display_query": "人在什么情况下成长的最快"
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   {
     "query": "为什么欧洲人画不出动人的写意画",
     "display_query": "为什么欧洲人画不出动人的写意画"
