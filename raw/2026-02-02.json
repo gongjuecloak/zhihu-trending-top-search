@@ -1,6 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
+  { "query": "青龙驱金融谣言", "display_query": "青龙驱金融谣言" },
+  {
+    "query": "2月这些新规将影响你我生活",
+    "display_query": "2月这些新规将影响你我生活"
+  },
   { "query": "公牛vs热火", "display_query": "公牛vs热火" },
   { "query": "gen战胜hle", "display_query": "gen战胜hle" },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
@@ -12,9 +15,12 @@
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
   },
-  { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
   { "query": "为什么要频繁记录自己", "display_query": "为什么要频繁记录自己" },
   { "query": "猪肉好吃又简单的做法", "display_query": "猪肉好吃又简单的做法" },
+  { "query": "如何戒掉完美主义", "display_query": "如何戒掉完美主义" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
+  { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
   {
     "query": "女星陈嘉仪放弃抢救丈夫遭儿子责怪",
     "display_query": "女星陈嘉仪放弃抢救丈夫遭儿子责怪"
