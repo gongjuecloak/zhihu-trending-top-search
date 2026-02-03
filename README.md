@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 03 2026 21:57:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 03 2026 22:40:11 GMT+0800 (China Standard Time) -->
 
 1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
