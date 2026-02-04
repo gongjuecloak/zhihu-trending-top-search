@@ -1,5 +1,4 @@
 [
-  { "query": "立春", "display_query": "立春" },
   {
     "query": "AI建立社交网络Moltbook",
     "display_query": "AI建立社交网络Moltbook"
@@ -7,6 +6,25 @@
   {
     "query": "女孩感染烟曲霉 脑子被啃20个洞",
     "display_query": "女孩感染烟曲霉 脑子被啃20个洞"
+  },
+  { "query": "立春", "display_query": "立春" },
+  { "query": "四川都江堰3.3级地震", "display_query": "四川都江堰3.3级地震" },
+  {
+    "query": "中国男篮公布21人集训名单",
+    "display_query": "中国男篮公布21人集训名单"
+  },
+  { "query": "《异环》三测爆火", "display_query": "《异环》三测爆火" },
+  {
+    "query": "阶跃星辰开源 step 3.5 Flash",
+    "display_query": "阶跃星辰开源 step 3.5 Flash"
+  },
+  {
+    "query": "可可西里藏羚羊已突破七万只",
+    "display_query": "可可西里藏羚羊已突破七万只"
+  },
+  {
+    "query": "小米SU7 Ultra专属销售团队解散",
+    "display_query": "小米SU7 Ultra专属销售团队解散"
   },
   { "query": "春节假期火车票开售", "display_query": "春节假期火车票开售" },
   {
