@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 18:31:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 19:28:12 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
