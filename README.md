@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 12 2026 14:59:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 12 2026 15:54:07 GMT+0800 (China Standard Time) -->
 
-1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
+1. [这跟自己生的孩子有什么区别](https://www.zhihu.com/search?q=这跟自己生的孩子有什么区别)
+1. [赌赢后高市早苗彻底不装了](https://www.zhihu.com/search?q=赌赢后高市早苗彻底不装了)
 1. [步行者vs尼克斯](https://www.zhihu.com/search?q=步行者vs尼克斯)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [马刺大胜湖人](https://www.zhihu.com/search?q=马刺大胜湖人)
@@ -19,6 +20,7 @@
 1. [马刺vs湖人](https://www.zhihu.com/search?q=马刺vs湖人)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
+1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
 1. [有哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=有哪些东西已经贵到不值得买了)
 1. [孙颖莎首次夺得亚洲杯女单金牌](https://www.zhihu.com/search?q=孙颖莎首次夺得亚洲杯女单金牌)
 1. [洗车问题难倒一众AI](https://www.zhihu.com/search?q=洗车问题难倒一众AI)
