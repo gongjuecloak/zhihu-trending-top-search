@@ -1,7 +1,8 @@
 [
+  { "query": "记了很多年的春运经历", "display_query": "记了很多年的春运经历" },
   {
-    "query": "沪深两市成交额突破1万亿元",
-    "display_query": "沪深两市成交额突破1万亿元"
+    "query": "中年对许多事没兴趣原因",
+    "display_query": "中年对许多事没兴趣原因"
   },
   {
     "query": "古人过春节有什么风雅的习俗",
@@ -16,6 +17,10 @@
   {
     "query": "如何评价VisualStudio2026",
     "display_query": "如何评价VisualStudio2026"
+  },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "情人节", "display_query": "情人节" }
