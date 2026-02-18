@@ -8,13 +8,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 18 2026 14:51:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 18 2026 16:34:21 GMT+0800 (China Standard Time) -->
 
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=你心目中的年味是什么)
 1. [nba全明星扣篮大赛](https://www.zhihu.com/search?q=nba全明星扣篮大赛)
 1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=为什么成功人士的精力都非常旺盛)
 1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=日本的汽车产业还能支撑多久)
+1. [625亿国补落地春节市场](https://www.zhihu.com/search?q=625亿国补落地春节市场)
 1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=汇报工作时如何做到清晰有条理)
 1. [为何老外喜欢发布开源代码](https://www.zhihu.com/search?q=为何老外喜欢发布开源代码)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
