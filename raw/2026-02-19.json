@@ -1,9 +1,4 @@
 [
-  { "query": "各大银行盯上压岁钱", "display_query": "各大银行盯上压岁钱" },
-  {
-    "query": "城里狗回村过年看到本地狗惊呆了",
-    "display_query": "城里狗回村过年看到本地狗惊呆了"
-  },
   {
     "query": "古人过春节有什么风雅的习俗",
     "display_query": "古人过春节有什么风雅的习俗"
@@ -15,12 +10,17 @@
   { "query": "ai 马年祝福", "display_query": "ai 马年祝福" },
   { "query": "AI 搜索马年祝福集卡", "display_query": "AI 搜索马年祝福集卡" },
   { "query": "ai 搜索集卡享大礼", "display_query": "ai 搜索集卡享大礼" },
+  { "query": "ai搜索集卡享大礼", "display_query": "ai搜索集卡享大礼" },
+  { "query": "马上集卡分大礼", "display_query": "马上集卡分大礼" },
+  { "query": "各大银行盯上压岁钱", "display_query": "各大银行盯上压岁钱" },
+  {
+    "query": "城里狗回村过年看到本地狗惊呆了",
+    "display_query": "城里狗回村过年看到本地狗惊呆了"
+  },
   {
     "query": "高市早苗将出任日本新任首相",
     "display_query": "高市早苗将出任日本新任首相"
   },
-  { "query": "ai搜索集卡享大礼", "display_query": "ai搜索集卡享大礼" },
-  { "query": "马上集卡分大礼", "display_query": "马上集卡分大礼" },
   {
     "query": "春节里的传统文化含量拉满了",
     "display_query": "春节里的传统文化含量拉满了"
