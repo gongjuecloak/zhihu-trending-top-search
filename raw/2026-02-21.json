@@ -1,5 +1,6 @@
 [
-  { "query": "蔡徐坤迪拜音乐节", "display_query": "蔡徐坤迪拜音乐节" },
+  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
+  { "query": "初五迎财神", "display_query": "初五迎财神" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
   {
     "query": "古人过春节有什么风雅的习俗",
@@ -11,5 +12,6 @@
   { "query": "ai马年祝福", "display_query": "ai马年祝福" },
   { "query": "ai 马年祝福", "display_query": "ai 马年祝福" },
   { "query": "AI 搜索马年祝福集卡", "display_query": "AI 搜索马年祝福集卡" },
+  { "query": "蔡徐坤迪拜音乐节", "display_query": "蔡徐坤迪拜音乐节" },
   { "query": "ai 搜索集卡享大礼", "display_query": "ai 搜索集卡享大礼" }
 ]
