@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 21 2026 17:21:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 21 2026 18:16:16 GMT+0800 (China Standard Time) -->
 
-1. [掘金vs快船](https://www.zhihu.com/search?q=掘金vs快船)
-1. [正月初五接财神](https://www.zhihu.com/search?q=正月初五接财神)
+1. [日本福冈市发生一起伤人事件](https://www.zhihu.com/search?q=日本福冈市发生一起伤人事件)
 1. [初五迎财神](https://www.zhihu.com/search?q=初五迎财神)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=快船战胜掘金)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
@@ -20,10 +19,12 @@
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
 1. [ai马年祝福](https://www.zhihu.com/search?q=ai马年祝福)
 1. [ai 马年祝福](https://www.zhihu.com/search?q=ai 马年祝福)
+1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
+1. [掘金vs快船](https://www.zhihu.com/search?q=掘金vs快船)
+1. [正月初五接财神](https://www.zhihu.com/search?q=正月初五接财神)
 1. [手术室为什么会放花生米](https://www.zhihu.com/search?q=手术室为什么会放花生米)
 1. [过年有哪些流传下来的风俗](https://www.zhihu.com/search?q=过年有哪些流传下来的风俗)
 1. [当外国人扎堆来蹭中国年](https://www.zhihu.com/search?q=当外国人扎堆来蹭中国年)
-1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
 1. [蔡徐坤迪拜音乐节](https://www.zhihu.com/search?q=蔡徐坤迪拜音乐节)
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai 搜索集卡享大礼)
 
