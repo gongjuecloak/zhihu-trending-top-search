@@ -1,4 +1,23 @@
 [
+  { "query": "ai回忆录", "display_query": "ai回忆录" },
+  { "query": "马年集卡赢大礼", "display_query": "马年集卡赢大礼" },
+  { "query": "知乎春节回忆录", "display_query": "知乎春节回忆录" },
+  { "query": "知乎回忆录", "display_query": "知乎回忆录" },
+  { "query": "搜索回忆录", "display_query": "搜索回忆录" },
+  { "query": "ai 回忆录", "display_query": "ai 回忆录" },
+  { "query": "史上最贵iPhone要来了", "display_query": "史上最贵iPhone要来了" },
+  {
+    "query": "电影《飞驰人生 3》热映",
+    "display_query": "电影《飞驰人生 3》热映"
+  },
+  {
+    "query": "武侠动作电影《镖人：风起大漠》热映",
+    "display_query": "武侠动作电影《镖人：风起大漠》热映"
+  },
+  {
+    "query": "男子高速变道提前一小时到家",
+    "display_query": "男子高速变道提前一小时到家"
+  },
   {
     "query": "带半瓶茅台乘火车被拦欲当场喝完",
     "display_query": "带半瓶茅台乘火车被拦欲当场喝完"
@@ -8,16 +27,6 @@
     "display_query": "结婚五金起步价迈入10万元大关"
   },
   { "query": "2026 米兰冬奥会", "display_query": "2026 米兰冬奥会" },
-  { "query": "马年集卡赢大礼", "display_query": "马年集卡赢大礼" },
-  { "query": "知乎春节回忆录", "display_query": "知乎春节回忆录" },
-  { "query": "知乎回忆录", "display_query": "知乎回忆录" },
-  { "query": "搜索回忆录", "display_query": "搜索回忆录" },
-  { "query": "ai 回忆录", "display_query": "ai 回忆录" },
-  { "query": "ai回忆录", "display_query": "ai回忆录" },
-  {
-    "query": "电影《飞驰人生 3》热映",
-    "display_query": "电影《飞驰人生 3》热映"
-  },
   {
     "query": "游客武当山排队12小时未登顶",
     "display_query": "游客武当山排队12小时未登顶"
