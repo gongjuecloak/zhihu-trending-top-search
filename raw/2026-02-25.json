@@ -1,8 +1,11 @@
 [
-  { "query": "任我行为什么突然死了", "display_query": "任我行为什么突然死了" },
   {
-    "query": "林臻东和李伦谁家底更厚",
-    "display_query": "林臻东和李伦谁家底更厚"
+    "query": "为什么现在的汽车这么便宜",
+    "display_query": "为什么现在的汽车这么便宜"
+  },
+  {
+    "query": "A股三大指数均大幅高开",
+    "display_query": "A股三大指数均大幅高开"
   },
   { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   { "query": "孙颖莎晋级32强", "display_query": "孙颖莎晋级32强" },
@@ -20,6 +23,11 @@
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
+  },
+  { "query": "任我行为什么突然死了", "display_query": "任我行为什么突然死了" },
+  {
+    "query": "林臻东和李伦谁家底更厚",
+    "display_query": "林臻东和李伦谁家底更厚"
   },
   { "query": "考研初试", "display_query": "考研初试" },
   { "query": "jdg对战tes", "display_query": "jdg对战tes" },
