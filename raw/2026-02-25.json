@@ -1,6 +1,6 @@
 [
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
-  { "query": "考研初试", "display_query": "考研初试" },
+  { "query": "谷爱凌说最怕不能滑雪", "display_query": "谷爱凌说最怕不能滑雪" },
+  { "query": "曼联1比0埃弗顿", "display_query": "曼联1比0埃弗顿" },
   { "query": "jdg对战tes", "display_query": "jdg对战tes" },
   { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   { "query": "孙颖莎晋级32强", "display_query": "孙颖莎晋级32强" },
@@ -12,6 +12,8 @@
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
   },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "考研初试", "display_query": "考研初试" },
   {
     "query": "如果你有儿子你会怎样培养他",
     "display_query": "如果你有儿子你会怎样培养他"
