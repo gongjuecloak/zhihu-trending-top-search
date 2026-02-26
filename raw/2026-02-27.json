@@ -4,6 +4,7 @@
   { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
   { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
+  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
   {
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
@@ -17,6 +18,5 @@
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
-  },
-  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" }
+  }
 ]
