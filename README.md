@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 27 2026 22:32:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 27 2026 23:30:31 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
