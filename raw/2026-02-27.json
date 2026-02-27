@@ -1,6 +1,5 @@
 [
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
-  { "query": "新品驾到", "display_query": "新品驾到" },
+  { "query": "周杰伦杭州演唱会抢票", "display_query": "周杰伦杭州演唱会抢票" },
   { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
   { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
@@ -18,5 +17,7 @@
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
-  }
+  },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "新品驾到", "display_query": "新品驾到" }
 ]
