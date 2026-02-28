@@ -1,5 +1,11 @@
 [
+  { "query": "中国男篮 不容易", "display_query": "中国男篮 不容易" },
+  {
+    "query": "环境空气质量新国标来了",
+    "display_query": "环境空气质量新国标来了"
+  },
   { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "酒驾", "display_query": "酒驾" },
   { "query": "wbg战胜ig", "display_query": "wbg战胜ig" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
   {
