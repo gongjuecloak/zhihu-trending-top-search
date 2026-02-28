@@ -8,10 +8,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 22:13:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 23:13:33 GMT+0800 (China Standard Time) -->
 
-1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=寒假作业冲刺倒计时)
-1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
@@ -22,6 +20,8 @@
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
+1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=寒假作业冲刺倒计时)
+1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
 1. [杨本芬回应抄袭事件](https://www.zhihu.com/search?q=杨本芬回应抄袭事件)
 1. [广东英德1岁多走失男童已离世](https://www.zhihu.com/search?q=广东英德1岁多走失男童已离世)
 1. [王曼昱19比21申裕斌](https://www.zhihu.com/search?q=王曼昱19比21申裕斌)

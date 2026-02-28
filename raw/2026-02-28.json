@@ -1,6 +1,4 @@
 [
-  { "query": "寒假作业冲刺倒计时", "display_query": "寒假作业冲刺倒计时" },
-  { "query": "多地28日考研查分", "display_query": "多地28日考研查分" },
   { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "酒驾", "display_query": "酒驾" },
   { "query": "wbg战胜ig", "display_query": "wbg战胜ig" },
@@ -14,6 +12,8 @@
   { "query": "四六级查分", "display_query": "四六级查分" },
   { "query": "掘金vs雷霆", "display_query": "掘金vs雷霆" },
   { "query": "火箭vs魔术", "display_query": "火箭vs魔术" },
+  { "query": "寒假作业冲刺倒计时", "display_query": "寒假作业冲刺倒计时" },
+  { "query": "多地28日考研查分", "display_query": "多地28日考研查分" },
   { "query": "杨本芬回应抄袭事件", "display_query": "杨本芬回应抄袭事件" },
   {
     "query": "广东英德1岁多走失男童已离世",
