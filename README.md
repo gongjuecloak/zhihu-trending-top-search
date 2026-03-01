@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 15:26:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 16:19:50 GMT+0800 (China Standard Time) -->
 
+1. [意大利小偷把肾结石误认黄金偷走](https://www.zhihu.com/search?q=意大利小偷把肾结石误认黄金偷走)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [退税](https://www.zhihu.com/search?q=退税)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
