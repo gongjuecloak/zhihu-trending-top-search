@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 07:13:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 09:22:38 GMT+0800 (China Standard Time) -->
 
-1. [菲律宾所谓联合巡航搅局南海](https://www.zhihu.com/search?q=菲律宾所谓联合巡航搅局南海)
+1. [瑞幸2025年财报](https://www.zhihu.com/search?q=瑞幸2025年财报)
 1. [周杰伦田馥甄过期糖](https://www.zhihu.com/search?q=周杰伦田馥甄过期糖)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
@@ -20,6 +20,7 @@
 1. [欧冠淘汰赛抽签仪式](https://www.zhihu.com/search?q=欧冠淘汰赛抽签仪式)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
 1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG战胜WBG赛后数据)
+1. [菲律宾所谓联合巡航搅局南海](https://www.zhihu.com/search?q=菲律宾所谓联合巡航搅局南海)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [我的春节回忆录](https://www.zhihu.com/search?q=我的春节回忆录)
 

@@ -1,8 +1,5 @@
 [
-  {
-    "query": "菲律宾所谓联合巡航搅局南海",
-    "display_query": "菲律宾所谓联合巡航搅局南海"
-  },
+  { "query": "瑞幸2025年财报", "display_query": "瑞幸2025年财报" },
   { "query": "周杰伦田馥甄过期糖", "display_query": "周杰伦田馥甄过期糖" },
   { "query": "酒驾", "display_query": "酒驾" },
   { "query": "考研查分", "display_query": "考研查分" },
@@ -18,6 +15,10 @@
     "display_query": "生化危机9里昂人设争议"
   },
   { "query": "BLG战胜WBG赛后数据", "display_query": "BLG战胜WBG赛后数据" },
+  {
+    "query": "菲律宾所谓联合巡航搅局南海",
+    "display_query": "菲律宾所谓联合巡航搅局南海"
+  },
   { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "我的春节回忆录", "display_query": "我的春节回忆录" }
 ]
