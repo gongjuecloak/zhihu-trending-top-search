@@ -8,11 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 02 2026 09:14:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 02 2026 12:04:40 GMT+0800 (China Standard Time) -->
 
 1. [王楚钦男单夺冠](https://www.zhihu.com/search?q=王楚钦男单夺冠)
 1. [退税](https://www.zhihu.com/search?q=退税)
-1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
 1. [我的春节回忆录](https://www.zhihu.com/search?q=我的春节回忆录)
 1. [知乎回忆录](https://www.zhihu.com/search?q=知乎回忆录)
 1. [搜索回忆录](https://www.zhihu.com/search?q=搜索回忆录)
@@ -21,6 +20,8 @@
 1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=电影《飞驰人生
    3》热映)
 1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=武侠动作电影《镖人：风起大漠》热映)
+1. [春节后肥胖门诊爆满减肥针火了](https://www.zhihu.com/search?q=春节后肥胖门诊爆满减肥针火了)
+1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
 
 <!-- END -->
 
