@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 09:13:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 04 2026 12:00:02 GMT+0800 (China Standard Time) -->
 
-1. [正月十五闹元宵](https://www.zhihu.com/search?q=正月十五闹元宵)
-1. [a股](https://www.zhihu.com/search?q=a股)
+1. [李雨桐曝现任比薛之谦有钱](https://www.zhihu.com/search?q=李雨桐曝现任比薛之谦有钱)
+1. [学历自卑](https://www.zhihu.com/search?q=学历自卑)
 1. [元宵节](https://www.zhihu.com/search?q=元宵节)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=森林狼vs掘金)
@@ -20,6 +20,8 @@
 1. [王楚钦vs林昀儒](https://www.zhihu.com/search?q=王楚钦vs林昀儒)
 1. [沪指再度刷新阶段高点](https://www.zhihu.com/search?q=沪指再度刷新阶段高点)
 1. [休斯顿火箭](https://www.zhihu.com/search?q=休斯顿火箭)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=正月十五闹元宵)
+1. [a股](https://www.zhihu.com/search?q=a股)
 
 <!-- END -->
 
