@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 07 2026 02:31:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 07 2026 03:27:36 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [今日惊蛰](https://www.zhihu.com/search?q=今日惊蛰)
