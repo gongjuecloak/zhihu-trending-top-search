@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 10 2026 04:23:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 10 2026 05:23:22 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=周杰伦新专辑)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
