@@ -1,5 +1,8 @@
 [
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  {
+    "query": "绝不允许任何人为侵略翻案",
+    "display_query": "绝不允许任何人为侵略翻案"
+  },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "快船vs灰熊", "display_query": "快船vs灰熊" },
   {
@@ -23,5 +26,6 @@
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
-  }
+  },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" }
 ]
