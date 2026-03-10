@@ -1,12 +1,5 @@
 [
-  {
-    "query": "美以伊冲突影响持续外溢",
-    "display_query": "美以伊冲突影响持续外溢"
-  },
-  {
-    "query": "AI辅助问诊模式普及与接受",
-    "display_query": "AI辅助问诊模式普及与接受"
-  },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   {
     "query": "孙宇晨花 624 万美元买下一根香蕉",
@@ -28,16 +21,23 @@
     "display_query": "美国情报系统现在属于什么水平"
   },
   {
-    "query": "绝不允许任何人为侵略翻案",
-    "display_query": "绝不允许任何人为侵略翻案"
-  },
-  {
     "query": "为什么年轻人反感老一辈的说教",
     "display_query": "为什么年轻人反感老一辈的说教"
   },
   {
+    "query": "美以伊冲突影响持续外溢",
+    "display_query": "美以伊冲突影响持续外溢"
+  },
+  {
+    "query": "AI辅助问诊模式普及与接受",
+    "display_query": "AI辅助问诊模式普及与接受"
+  },
+  {
+    "query": "绝不允许任何人为侵略翻案",
+    "display_query": "绝不允许任何人为侵略翻案"
+  },
+  {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
-  },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" }
+  }
 ]
