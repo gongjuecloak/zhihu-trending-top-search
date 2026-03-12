@@ -1,5 +1,5 @@
 [
-  { "query": "巴萨1比1纽卡", "display_query": "巴萨1比1纽卡" },
+  { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
@@ -18,11 +18,13 @@
     "query": "运动真的能改变一个人吗",
     "display_query": "运动真的能改变一个人吗"
   },
+  { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
   {
     "query": "孙宇晨称删「90前」勿沾老登气息",
     "display_query": "孙宇晨称删「90前」勿沾老登气息"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "巴萨1比1纽卡", "display_query": "巴萨1比1纽卡" },
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" }
 ]
