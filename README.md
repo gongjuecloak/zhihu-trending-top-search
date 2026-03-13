@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 22:36:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 23:33:51 GMT+0800 (China Standard Time) -->
 
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
