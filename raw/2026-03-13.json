@@ -1,6 +1,4 @@
 [
-  { "query": "你养的龙虾安全吗", "display_query": "你养的龙虾安全吗" },
-  { "query": "节能风电涨停", "display_query": "节能风电涨停" },
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -20,6 +18,8 @@
     "query": "十五五会带来哪些机遇与挑战",
     "display_query": "十五五会带来哪些机遇与挑战"
   },
+  { "query": "你养的龙虾安全吗", "display_query": "你养的龙虾安全吗" },
+  { "query": "节能风电涨停", "display_query": "节能风电涨停" },
   {
     "query": "孙宇晨花 624 万美元买下一根香蕉",
     "display_query": "孙宇晨花 624 万美元买下一根香蕉"
