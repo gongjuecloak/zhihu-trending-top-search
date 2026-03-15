@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 15 2026 22:21:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 15 2026 23:19:49 GMT+0800 (China Standard Time) -->
 
-1. [天津有什么好吃的](https://www.zhihu.com/search?q=天津有什么好吃的)
-1. [嵌入式空调](https://www.zhihu.com/search?q=嵌入式空调)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [独行侠vs灰熊](https://www.zhihu.com/search?q=独行侠vs灰熊)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=湖人击败森林狼)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
@@ -20,8 +20,8 @@
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
-1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
-1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
+1. [天津有什么好吃的](https://www.zhihu.com/search?q=天津有什么好吃的)
+1. [嵌入式空调](https://www.zhihu.com/search?q=嵌入式空调)
 
 <!-- END -->
 
