@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 16 2026 17:55:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 16 2026 18:44:46 GMT+0800 (China Standard Time) -->
 
 1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
