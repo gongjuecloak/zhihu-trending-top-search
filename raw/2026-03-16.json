@@ -1,8 +1,20 @@
 [
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "冰箱贴长期不挪伤冰箱", "display_query": "冰箱贴长期不挪伤冰箱" },
+  {
+    "query": "第 98 届奥斯卡终极预测",
+    "display_query": "第 98 届奥斯卡终极预测"
+  },
+  {
+    "query": "799 元镜片进价仅 15 元",
+    "display_query": "799 元镜片进价仅 15 元"
+  },
   {
     "query": "我国正研究解决地外星球长期生存问题",
     "display_query": "我国正研究解决地外星球长期生存问题"
+  },
+  {
+    "query": "第 98 届奥斯卡获奖名单",
+    "display_query": "第 98 届奥斯卡获奖名单"
   },
   { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
@@ -12,6 +24,7 @@
     "query": "逛 AWE，问什么显得我很懂",
     "display_query": "逛 AWE，问什么显得我很懂"
   },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "AWE，智能生活的 next level？",
     "display_query": "AWE，智能生活的 next level？"
