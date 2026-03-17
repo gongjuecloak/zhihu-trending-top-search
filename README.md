@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 17 2026 15:48:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 17 2026 16:39:44 GMT+0800 (China Standard Time) -->
 
 1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=性格内向的人看起来更显小)
