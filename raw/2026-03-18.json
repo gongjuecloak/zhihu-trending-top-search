@@ -1,5 +1,5 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "胖东来", "display_query": "胖东来" },
   {
     "query": "性格内向的人看起来更显小",
@@ -14,5 +14,9 @@
     "query": "十五五 你的未来说明书",
     "display_query": "十五五 你的未来说明书"
   },
-  { "query": "AWE 2026", "display_query": "AWE 2026" }
+  {
+    "query": "再次呼吁各方立即停止军事行动",
+    "display_query": "再次呼吁各方立即停止军事行动"
+  },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" }
 ]
