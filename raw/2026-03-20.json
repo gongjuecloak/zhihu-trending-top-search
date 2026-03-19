@@ -1,6 +1,12 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
+  {
+    "query": "腾讯最新财报提及三角洲行动",
+    "display_query": "腾讯最新财报提及三角洲行动"
+  },
+  {
+    "query": "满13周岁女孩免费接种HPV",
+    "display_query": "满13周岁女孩免费接种HPV"
+  },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -18,6 +24,8 @@
     "query": "美股收盘：三大指数集体下跌",
     "display_query": "美股收盘：三大指数集体下跌"
   },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "腾讯人均年薪112万", "display_query": "腾讯人均年薪112万" },
   {
     "query": "嫦娥六号在月球上有新发现",
