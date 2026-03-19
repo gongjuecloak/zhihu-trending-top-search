@@ -1,6 +1,9 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
+  { "query": "谢征樊长玉好磕", "display_query": "谢征樊长玉好磕" },
+  {
+    "query": "泰柬边境电诈园实行企业化管理",
+    "display_query": "泰柬边境电诈园实行企业化管理"
+  },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   {
     "query": "美联储宣布维持利率不变",
@@ -15,6 +18,8 @@
   },
   { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
   { "query": "二月二吃什么", "display_query": "二月二吃什么" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
   { "query": "2月70城房价出炉", "display_query": "2月70城房价出炉" },
   { "query": "春分吃什么", "display_query": "春分吃什么" },
   { "query": "田栩宁 若若", "display_query": "田栩宁 若若" },
