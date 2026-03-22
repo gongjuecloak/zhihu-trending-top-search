@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 22 2026 19:16:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 22 2026 20:30:06 GMT+0800 (China Standard Time) -->
 
 1. [今日春分](https://www.zhihu.com/search?q=今日春分)
 1. [二月二龙抬头](https://www.zhihu.com/search?q=二月二龙抬头)
