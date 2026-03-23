@@ -1,7 +1,7 @@
 [
   {
-    "query": "你人生中睡得最好的一觉是什么时候",
-    "display_query": "你人生中睡得最好的一觉是什么时候"
+    "query": "研究证明女孩青春期普遍提前",
+    "display_query": "研究证明女孩青春期普遍提前"
   },
   {
     "query": "为什么地球上不存在巨兽",
@@ -13,18 +13,22 @@
     "query": "猫咪为啥会陪人睡一晚上呢",
     "display_query": "猫咪为啥会陪人睡一晚上呢"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
   { "query": "AWE 是啥？", "display_query": "AWE 是啥？" },
   { "query": "AWE 逛展看什么？", "display_query": "AWE 逛展看什么？" },
   {
-    "query": "冰箱贴一直不挪会伤害冰箱吗？",
-    "display_query": "冰箱贴一直不挪会伤害冰箱吗？"
-  },
-  {
     "query": "逛 AWE，问什么显得我很懂",
     "display_query": "逛 AWE，问什么显得我很懂"
+  },
+  {
+    "query": "你人生中睡得最好的一觉是什么时候",
+    "display_query": "你人生中睡得最好的一觉是什么时候"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "冰箱贴一直不挪会伤害冰箱吗？",
+    "display_query": "冰箱贴一直不挪会伤害冰箱吗？"
   },
   {
     "query": "AWE，智能生活的 next level？",
