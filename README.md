@@ -8,9 +8,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 09:20:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 12:19:20 GMT+0800 (China Standard Time) -->
 
+1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG夺冠)
+1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=猫咪为啥会陪人睡一晚上呢)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
 1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE 家的参考系)
