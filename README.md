@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 24 2026 17:44:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 24 2026 18:41:03 GMT+0800 (China Standard Time) -->
 
+1. [为什么在高档场所就不自在](https://www.zhihu.com/search?q=为什么在高档场所就不自在)
 1. [雷军请了半个车圈的老总到场支持](https://www.zhihu.com/search?q=雷军请了半个车圈的老总到场支持)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
