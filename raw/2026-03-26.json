@@ -1,12 +1,6 @@
 [
-  {
-    "query": "做剧烈运动前一定要做全面体检",
-    "display_query": "做剧烈运动前一定要做全面体检"
-  },
-  {
-    "query": "腾讯为何养不出DeepSeek",
-    "display_query": "腾讯为何养不出DeepSeek"
-  },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "你在低谷期学会了什么", "display_query": "你在低谷期学会了什么" },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
@@ -23,6 +17,14 @@
   {
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "做剧烈运动前一定要做全面体检",
+    "display_query": "做剧烈运动前一定要做全面体检"
+  },
+  {
+    "query": "腾讯为何养不出DeepSeek",
+    "display_query": "腾讯为何养不出DeepSeek"
   },
   {
     "query": "为什么爱运动的人也会心脏骤停",
@@ -65,7 +67,5 @@
     "query": "员工称救心丸不会因张雪峰涨价",
     "display_query": "员工称救心丸不会因张雪峰涨价"
   },
-  { "query": "何润东 翻红", "display_query": "何润东 翻红" },
-  { "query": "心源性猝死", "display_query": "心源性猝死" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" }
+  { "query": "何润东 翻红", "display_query": "何润东 翻红" }
 ]
