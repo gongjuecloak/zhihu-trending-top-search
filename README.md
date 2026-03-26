@@ -8,11 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 26 2026 19:41:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 26 2026 20:52:40 GMT+0800 (China Standard Time) -->
 
-1. [为什么爱运动的人也会心脏骤停](https://www.zhihu.com/search?q=为什么爱运动的人也会心脏骤停)
-1. [专柜买 4 个 LV 包均为假货](https://www.zhihu.com/search?q=专柜买 4 个 LV
-   包均为假货)
+1. [做剧烈运动前一定要做全面体检](https://www.zhihu.com/search?q=做剧烈运动前一定要做全面体检)
+1. [腾讯为何养不出DeepSeek](https://www.zhihu.com/search?q=腾讯为何养不出DeepSeek)
 1. [你在低谷期学会了什么](https://www.zhihu.com/search?q=你在低谷期学会了什么)
 1. [什么是心源性猝死](https://www.zhihu.com/search?q=什么是心源性猝死)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
@@ -21,6 +20,9 @@
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [为什么爱运动的人也会心脏骤停](https://www.zhihu.com/search?q=为什么爱运动的人也会心脏骤停)
+1. [专柜买 4 个 LV 包均为假货](https://www.zhihu.com/search?q=专柜买 4 个 LV
+   包均为假货)
 1. [张雪峰从送医到去世仅3小时](https://www.zhihu.com/search?q=张雪峰从送医到去世仅3小时)
 1. [国产剧为什么越来越没有吸引力了](https://www.zhihu.com/search?q=国产剧为什么越来越没有吸引力了)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)

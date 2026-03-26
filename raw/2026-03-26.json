@@ -1,11 +1,11 @@
 [
   {
-    "query": "为什么爱运动的人也会心脏骤停",
-    "display_query": "为什么爱运动的人也会心脏骤停"
+    "query": "做剧烈运动前一定要做全面体检",
+    "display_query": "做剧烈运动前一定要做全面体检"
   },
   {
-    "query": "专柜买 4 个 LV 包均为假货",
-    "display_query": "专柜买 4 个 LV 包均为假货"
+    "query": "腾讯为何养不出DeepSeek",
+    "display_query": "腾讯为何养不出DeepSeek"
   },
   { "query": "你在低谷期学会了什么", "display_query": "你在低谷期学会了什么" },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
@@ -23,6 +23,14 @@
   {
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "为什么爱运动的人也会心脏骤停",
+    "display_query": "为什么爱运动的人也会心脏骤停"
+  },
+  {
+    "query": "专柜买 4 个 LV 包均为假货",
+    "display_query": "专柜买 4 个 LV 包均为假货"
   },
   {
     "query": "张雪峰从送医到去世仅3小时",
