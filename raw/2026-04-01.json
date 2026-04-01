@@ -1,5 +1,12 @@
 [
-  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
+  {
+    "query": "瑞幸新品喝一半发现椰肉变紫",
+    "display_query": "瑞幸新品喝一半发现椰肉变紫"
+  },
+  {
+    "query": "为何公司不用 pandas 取代 excel",
+    "display_query": "为何公司不用 pandas 取代 excel"
+  },
   {
     "query": "什么样的家庭才能养出松弛感的孩子",
     "display_query": "什么样的家庭才能养出松弛感的孩子"
@@ -17,6 +24,7 @@
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
   { "query": "AI简历分析", "display_query": "AI简历分析" },
   { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
   { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
   { "query": "中国科学家合成新核素", "display_query": "中国科学家合成新核素" },
   {
