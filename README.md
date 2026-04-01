@@ -8,13 +8,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 01 2026 17:59:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 01 2026 18:57:54 GMT+0800 (China Standard Time) -->
 
+1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
+1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=为什么突然开始人均养猫了)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
+1. [国行版苹果 AI 撤回本地模型](https://www.zhihu.com/search?q=国行版苹果 AI
+   撤回本地模型)
+1. [谷歌视频模型低至每秒 0.05
+   美元](https://www.zhihu.com/search?q=谷歌视频模型低至每秒 0.05 美元)
+1. [中方回应美颁通用许可证排除中国](https://www.zhihu.com/search?q=中方回应美颁通用许可证排除中国)
+1. [春假加清明怎么陪孩子过](https://www.zhihu.com/search?q=春假加清明怎么陪孩子过)
+1. [2026 苏超十三队队服发布](https://www.zhihu.com/search?q=2026
+   苏超十三队队服发布)
+1. [上海交大校庆微电影文案争议](https://www.zhihu.com/search?q=上海交大校庆微电影文案争议)
+1. [张雪机车上的麻阳古法红糖火了](https://www.zhihu.com/search?q=张雪机车上的麻阳古法红糖火了)
 1. [瑞幸新品喝一半发现椰肉变紫](https://www.zhihu.com/search?q=瑞幸新品喝一半发现椰肉变紫)
 1. [为何公司不用 pandas 取代 excel](https://www.zhihu.com/search?q=为何公司不用
    pandas 取代 excel)
-1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
-1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=为什么突然开始人均养猫了)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [《逐玉》云合占比超《庆余年
    2》](https://www.zhihu.com/search?q=《逐玉》云合占比超《庆余年 2》)
@@ -22,7 +33,6 @@
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
 1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
 1. [中国科学家合成新核素](https://www.zhihu.com/search?q=中国科学家合成新核素)
 1. [怎样能让孩子从小热爱阅读](https://www.zhihu.com/search?q=怎样能让孩子从小热爱阅读)
