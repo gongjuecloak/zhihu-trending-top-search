@@ -1,5 +1,5 @@
 [
-  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
+  { "query": "深圳强雷雨天气", "display_query": "深圳强雷雨天气" },
   { "query": "愚人节", "display_query": "愚人节" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -26,5 +26,6 @@
   {
     "query": "人到中年你突然领悟了什么",
     "display_query": "人到中年你突然领悟了什么"
-  }
+  },
+  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" }
 ]

@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 07:28:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 09:22:01 GMT+0800 (China Standard Time) -->
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
+1. [深圳强雷雨天气](https://www.zhihu.com/search?q=深圳强雷雨天气)
 1. [愚人节](https://www.zhihu.com/search?q=愚人节)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [人到中年你最在乎的是什么](https://www.zhihu.com/search?q=人到中年你最在乎的是什么)
@@ -20,6 +20,7 @@
 1. [韩国电影为什么那么敢拍](https://www.zhihu.com/search?q=韩国电影为什么那么敢拍)
 1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=为什么突然开始人均养猫了)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 
 <!-- END -->
 
