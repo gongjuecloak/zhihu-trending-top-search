@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 16:57:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 18:00:06 GMT+0800 (China Standard Time) -->
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
+1. [deepseek被做成清明节纸扎](https://www.zhihu.com/search?q=deepseek被做成清明节纸扎)
+1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=粉底液将军被嘲冤不冤)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [广州暴雨](https://www.zhihu.com/search?q=广州暴雨)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
@@ -19,6 +20,7 @@
 1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=蔡磊进入渐冻症终末期)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
 1. [有哪些信达不雅的翻译](https://www.zhihu.com/search?q=有哪些信达不雅的翻译)
 1. [奈雪的茶大幅关店后年收入再度下降](https://www.zhihu.com/search?q=奈雪的茶大幅关店后年收入再度下降)
