@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 03 2026 05:27:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 03 2026 06:22:59 GMT+0800 (China Standard Time) -->
 
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
