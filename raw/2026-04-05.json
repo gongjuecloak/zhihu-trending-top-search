@@ -1,9 +1,6 @@
 [
-  { "query": "美军主力机型损失惨重", "display_query": "美军主力机型损失惨重" },
-  {
-    "query": "00后女孩留学回来当职业扫墓人",
-    "display_query": "00后女孩留学回来当职业扫墓人"
-  },
+  { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
+  { "query": "东契奇伤退", "display_query": "东契奇伤退" },
   {
     "query": "为什么年轻人宁愿待业也不找工作",
     "display_query": "为什么年轻人宁愿待业也不找工作"
@@ -16,6 +13,12 @@
     "query": "现在的小孩可以早熟到什么地步",
     "display_query": "现在的小孩可以早熟到什么地步"
   },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "美军主力机型损失惨重", "display_query": "美军主力机型损失惨重" },
+  {
+    "query": "00后女孩留学回来当职业扫墓人",
+    "display_query": "00后女孩留学回来当职业扫墓人"
+  },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" }
 ]
