@@ -1,5 +1,9 @@
 [
-  { "query": "金钱和健康哪个更重要", "display_query": "金钱和健康哪个更重要" },
+  { "query": "花粉过敏≠不能赏花", "display_query": "花粉过敏≠不能赏花" },
+  {
+    "query": "何小鹏:不碰10万元以下的汽车",
+    "display_query": "何小鹏:不碰10万元以下的汽车"
+  },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
   { "query": "国际油价大涨", "display_query": "国际油价大涨" },
   {
@@ -20,6 +24,7 @@
   },
   { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
   { "query": "真的有先父遗传吗", "display_query": "真的有先父遗传吗" },
+  { "query": "金钱和健康哪个更重要", "display_query": "金钱和健康哪个更重要" },
   { "query": "教父的人情可以不还吗", "display_query": "教父的人情可以不还吗" },
   { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
