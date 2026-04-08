@@ -8,20 +8,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 12:28:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 14:15:36 GMT+0800 (China Standard Time) -->
 
+1. [剧版《哈利波特》魔改霍格沃茨校徽](https://www.zhihu.com/search?q=剧版《哈利波特》魔改霍格沃茨校徽)
+1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
+1. [郭敬明的《月鳞绮纪》被质疑抄袭融梗](https://www.zhihu.com/search?q=郭敬明的《月鳞绮纪》被质疑抄袭融梗)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
+1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
 1. [中方回应日修改防卫装备转移三原则](https://www.zhihu.com/search?q=中方回应日修改防卫装备转移三原则)
 1. [三星家族将缴清 549
    亿元遗产税「尾款」](https://www.zhihu.com/search?q=三星家族将缴清 549
    亿元遗产税「尾款」)
-1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
-1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
-1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
 1. [浪姐 7 一公小考](https://www.zhihu.com/search?q=浪姐 7 一公小考)
-1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
-1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
-1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
 1. [郭艾伦疑遭熟人诈骗近千万](https://www.zhihu.com/search?q=郭艾伦疑遭熟人诈骗近千万)
 1. [曹操墓前为何全是布洛芬](https://www.zhihu.com/search?q=曹操墓前为何全是布洛芬)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)

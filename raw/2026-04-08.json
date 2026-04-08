@@ -1,5 +1,21 @@
 [
   {
+    "query": "剧版《哈利波特》魔改霍格沃茨校徽",
+    "display_query": "剧版《哈利波特》魔改霍格沃茨校徽"
+  },
+  { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
+  {
+    "query": "郭敬明的《月鳞绮纪》被质疑抄袭融梗",
+    "display_query": "郭敬明的《月鳞绮纪》被质疑抄袭融梗"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "AI模拟面试", "display_query": "AI模拟面试" },
+  {
     "query": "中方回应日修改防卫装备转移三原则",
     "display_query": "中方回应日修改防卫装备转移三原则"
   },
@@ -7,17 +23,11 @@
     "query": "三星家族将缴清 549 亿元遗产税「尾款」",
     "display_query": "三星家族将缴清 549 亿元遗产税「尾款」"
   },
-  { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
   {
     "query": "认知水平低的人有什么明显特征",
     "display_query": "认知水平低的人有什么明显特征"
   },
-  { "query": "AI面试官", "display_query": "AI面试官" },
-  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
   { "query": "浪姐 7 一公小考", "display_query": "浪姐 7 一公小考" },
-  { "query": "AI简历分析", "display_query": "AI简历分析" },
-  { "query": "简历诊断", "display_query": "简历诊断" },
-  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
   {
     "query": "郭艾伦疑遭熟人诈骗近千万",
     "display_query": "郭艾伦疑遭熟人诈骗近千万"
