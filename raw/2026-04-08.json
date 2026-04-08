@@ -1,7 +1,11 @@
 [
   {
-    "query": "ai短剧苦等一个「狂飙」",
-    "display_query": "ai短剧苦等一个「狂飙」"
+    "query": "为什么那么多酒店都倒闭了",
+    "display_query": "为什么那么多酒店都倒闭了"
+  },
+  {
+    "query": "清明节曹操墓前摆满布洛芬",
+    "display_query": "清明节曹操墓前摆满布洛芬"
   },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "胖东来发布情况说明", "display_query": "胖东来发布情况说明" },
@@ -16,6 +20,10 @@
   {
     "query": "网红都那么美为什么当不了明星",
     "display_query": "网红都那么美为什么当不了明星"
+  },
+  {
+    "query": "ai短剧苦等一个「狂飙」",
+    "display_query": "ai短剧苦等一个「狂飙」"
   },
   {
     "query": "什么样的ppt才是好的ppt",
