@@ -1,4 +1,23 @@
 [
+  {
+    "query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增",
+    "display_query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增"
+  },
+  {
+    "query": "Anthropic Claude Mythos模型登场",
+    "display_query": "Anthropic Claude Mythos模型登场"
+  },
+  {
+    "query": "认知水平低的人有什么明显特征",
+    "display_query": "认知水平低的人有什么明显特征"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   { "query": "无限超越班", "display_query": "无限超越班" },
   { "query": "A股", "display_query": "A股" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
