@@ -1,11 +1,8 @@
 [
+  { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
   {
-    "query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增",
-    "display_query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增"
-  },
-  {
-    "query": "Anthropic Claude Mythos模型登场",
-    "display_query": "Anthropic Claude Mythos模型登场"
+    "query": "网红都那么美为什么当不了明星",
+    "display_query": "网红都那么美为什么当不了明星"
   },
   {
     "query": "认知水平低的人有什么明显特征",
@@ -18,6 +15,14 @@
   { "query": "简历诊断", "display_query": "简历诊断" },
   { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
   { "query": "AI模拟面试", "display_query": "AI模拟面试" },
+  {
+    "query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增",
+    "display_query": "有哪些「烹饪窗户纸」捅破后让你厨艺大增"
+  },
+  {
+    "query": "Anthropic Claude Mythos模型登场",
+    "display_query": "Anthropic Claude Mythos模型登场"
+  },
   { "query": "无限超越班", "display_query": "无限超越班" },
   { "query": "A股", "display_query": "A股" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
@@ -28,10 +33,5 @@
     "display_query": "沪深两市成交额突破1万亿元"
   },
   { "query": "一箭十八星发射成功", "display_query": "一箭十八星发射成功" },
-  { "query": "郑钦文退出斯图加特赛", "display_query": "郑钦文退出斯图加特赛" },
-  { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
-  {
-    "query": "网红都那么美为什么当不了明星",
-    "display_query": "网红都那么美为什么当不了明星"
-  }
+  { "query": "郑钦文退出斯图加特赛", "display_query": "郑钦文退出斯图加特赛" }
 ]
