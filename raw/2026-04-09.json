@@ -1,11 +1,8 @@
 [
+  { "query": "A股", "display_query": "A股" },
   {
-    "query": "你会因为生态价值包容石楠花吗",
-    "display_query": "你会因为生态价值包容石楠花吗"
-  },
-  {
-    "query": "今麦郎「1桶半」是商标",
-    "display_query": "今麦郎「1桶半」是商标"
+    "query": "沪深两市成交额突破5000亿元",
+    "display_query": "沪深两市成交额突破5000亿元"
   },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
   { "query": "3月辟谣榜", "display_query": "3月辟谣榜" },
@@ -18,6 +15,14 @@
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  {
+    "query": "你会因为生态价值包容石楠花吗",
+    "display_query": "你会因为生态价值包容石楠花吗"
+  },
+  {
+    "query": "今麦郎「1桶半」是商标",
+    "display_query": "今麦郎「1桶半」是商标"
+  },
   {
     "query": "网红都那么美为什么当不了明星",
     "display_query": "网红都那么美为什么当不了明星"
@@ -42,7 +47,6 @@
     "display_query": "Anthropic Claude Mythos模型登场"
   },
   { "query": "无限超越班", "display_query": "无限超越班" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "胖东来发布情况说明", "display_query": "胖东来发布情况说明" },
   { "query": "独行侠vs快船", "display_query": "独行侠vs快船" },

@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 09 2026 19:45:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 09 2026 21:00:25 GMT+0800 (China Standard Time) -->
 
-1. [你会因为生态价值包容石楠花吗](https://www.zhihu.com/search?q=你会因为生态价值包容石楠花吗)
-1. [今麦郎「1桶半」是商标](https://www.zhihu.com/search?q=今麦郎「1桶半」是商标)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
 1. [3月辟谣榜](https://www.zhihu.com/search?q=3月辟谣榜)
 1. [武汉暴雨](https://www.zhihu.com/search?q=武汉暴雨)
@@ -20,6 +20,8 @@
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=中国有哪些逆天的文物)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
+1. [你会因为生态价值包容石楠花吗](https://www.zhihu.com/search?q=你会因为生态价值包容石楠花吗)
+1. [今麦郎「1桶半」是商标](https://www.zhihu.com/search?q=今麦郎「1桶半」是商标)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=网红都那么美为什么当不了明星)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -33,7 +35,6 @@
 1. [Anthropic Claude Mythos模型登场](https://www.zhihu.com/search?q=Anthropic
    Claude Mythos模型登场)
 1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [胖东来发布情况说明](https://www.zhihu.com/search?q=胖东来发布情况说明)
 1. [独行侠vs快船](https://www.zhihu.com/search?q=独行侠vs快船)
