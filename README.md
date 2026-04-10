@@ -8,8 +8,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 10 2026 09:27:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 10 2026 12:38:51 GMT+0800 (China Standard Time) -->
 
+1. [日本73岁老人来中国求职](https://www.zhihu.com/search?q=日本73岁老人来中国求职)
+1. [「改善型租房」为什么被越来越多人接受](https://www.zhihu.com/search?q=「改善型租房」为什么被越来越多人接受)
+1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
+1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
