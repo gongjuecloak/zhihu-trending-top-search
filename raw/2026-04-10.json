@@ -1,9 +1,26 @@
 [
   {
+    "query": "为何我觉得燃油车情绪价值能拉满",
+    "display_query": "为何我觉得燃油车情绪价值能拉满"
+  },
+  { "query": "檀健次演唱会大电影", "display_query": "檀健次演唱会大电影" },
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
+  {
     "query": "你的电话号码的前主人是什么样的人",
     "display_query": "你的电话号码的前主人是什么样的人"
   },
+  { "query": "戛纳", "display_query": "戛纳" },
+  { "query": "步行者vs篮网", "display_query": "步行者vs篮网" },
   { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  {
+    "query": "怎样才能叫做真正会科研的人",
+    "display_query": "怎样才能叫做真正会科研的人"
+  },
+  {
+    "query": "人到中年你突然领悟了什么",
+    "display_query": "人到中年你突然领悟了什么"
+  },
   {
     "query": "网红都那么美为什么当不了明星",
     "display_query": "网红都那么美为什么当不了明星"
@@ -40,6 +57,5 @@
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
   },
-  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" }
+  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" }
 ]
