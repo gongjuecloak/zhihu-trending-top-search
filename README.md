@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 11 2026 07:26:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 11 2026 09:22:07 GMT+0800 (China Standard Time) -->
 
-1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=刘强东章泽天成立新公司)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
+1. [对于维持心理健康的极简建议](https://www.zhihu.com/search?q=对于维持心理健康的极简建议)
+1. [手机铃声响就想静音](https://www.zhihu.com/search?q=手机铃声响就想静音)
 1. [湖人vs勇士](https://www.zhihu.com/search?q=湖人vs勇士)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=你的电话号码的前主人是什么样的人)
 1. [戛纳](https://www.zhihu.com/search?q=戛纳)
@@ -20,6 +20,8 @@
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
+1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=刘强东章泽天成立新公司)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 
 <!-- END -->
 
