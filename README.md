@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 05:41:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 06:37:01 GMT+0800 (China Standard Time) -->
 
 1. [周深演唱会](https://www.zhihu.com/search?q=周深演唱会)
 1. [李梦演技](https://www.zhihu.com/search?q=李梦演技)
