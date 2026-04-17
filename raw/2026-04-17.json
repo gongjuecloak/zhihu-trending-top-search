@@ -1,8 +1,6 @@
 [
-  {
-    "query": "德云社为什么只有郭德纲走到了最后",
-    "display_query": "德云社为什么只有郭德纲走到了最后"
-  },
+  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
   {
     "query": "五一假期首日火车票今日开售",
     "display_query": "五一假期首日火车票今日开售"
@@ -12,10 +10,7 @@
     "query": "什么样的人算是中了基因彩票",
     "display_query": "什么样的人算是中了基因彩票"
   },
-  {
-    "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
-    "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管"
-  },
+  { "query": "电子游戏中有哪些误译", "display_query": "电子游戏中有哪些误译" },
   { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
   { "query": "TES战胜BLG", "display_query": "TES战胜BLG" },
   {
@@ -23,6 +18,14 @@
     "display_query": "导师给你的最后忠告是什么"
   },
   { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
+  {
+    "query": "德云社为什么只有郭德纲走到了最后",
+    "display_query": "德云社为什么只有郭德纲走到了最后"
+  },
+  {
+    "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
+    "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管"
+  },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
