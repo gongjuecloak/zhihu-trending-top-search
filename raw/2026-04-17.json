@@ -1,9 +1,8 @@
 [
   {
-    "query": "明星 AI 项目被曝抄袭中国团队",
-    "display_query": "明星 AI 项目被曝抄袭中国团队"
+    "query": "快倒闭的硅谷神鞋Allbirds转行AI",
+    "display_query": "快倒闭的硅谷神鞋Allbirds转行AI"
   },
-  { "query": "生猪跌破五元一斤", "display_query": "生猪跌破五元一斤" },
   {
     "query": "导师给你的最后忠告是什么",
     "display_query": "导师给你的最后忠告是什么"
@@ -11,6 +10,7 @@
   { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "2026 苏超十三队队服发布",
     "display_query": "2026 苏超十三队队服发布"
@@ -20,6 +20,15 @@
     "display_query": "苏超揭幕战!常州 vs 南通"
   },
   { "query": "苏超", "display_query": "苏超" },
+  {
+    "query": "20城公积金超半数只缴不用",
+    "display_query": "20城公积金超半数只缴不用"
+  },
+  {
+    "query": "明星 AI 项目被曝抄袭中国团队",
+    "display_query": "明星 AI 项目被曝抄袭中国团队"
+  },
+  { "query": "生猪跌破五元一斤", "display_query": "生猪跌破五元一斤" },
   {
     "query": "奥地利前国门曼宁格意外离世",
     "display_query": "奥地利前国门曼宁格意外离世"
