@@ -1,8 +1,6 @@
 [
-  {
-    "query": "王者荣耀世界移动端上线",
-    "display_query": "王者荣耀世界移动端上线"
-  },
+  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
   {
     "query": "五一假期首日火车票今日开售",
     "display_query": "五一假期首日火车票今日开售"
@@ -18,6 +16,10 @@
     "display_query": "2026 苏超十三队队服发布"
   },
   {
+    "query": "王者荣耀世界移动端上线",
+    "display_query": "王者荣耀世界移动端上线"
+  },
+  {
     "query": "苏超揭幕战!常州 vs 南通",
     "display_query": "苏超揭幕战!常州 vs 南通"
   },
@@ -25,10 +27,5 @@
     "query": "踏春赏花 让美景变“钱景”",
     "display_query": "踏春赏花 让美景变“钱景”"
   },
-  {
-    "query": "粉色蓝莓炒到400元一斤",
-    "display_query": "粉色蓝莓炒到400元一斤"
-  },
-  { "query": "教资成绩", "display_query": "教资成绩" },
-  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" }
+  { "query": "粉色蓝莓炒到400元一斤", "display_query": "粉色蓝莓炒到400元一斤" }
 ]
