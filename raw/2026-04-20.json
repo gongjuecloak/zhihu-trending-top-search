@@ -1,9 +1,5 @@
 [
-  {
-    "query": "国产光纤部分产品价格暴涨 650%",
-    "display_query": "国产光纤部分产品价格暴涨 650%"
-  },
-  { "query": "胡博被罚款 80 万元", "display_query": "胡博被罚款 80 万元" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
@@ -11,12 +7,12 @@
     "display_query": "蜜蜂为什么要把身上的花粉刮下来"
   },
   {
-    "query": "理想有部门全员无年终奖",
-    "display_query": "理想有部门全员无年终奖"
+    "query": "2026 人形机器人半程马拉松赛",
+    "display_query": "2026 人形机器人半程马拉松赛"
   },
   {
-    "query": "《纵横四海》4K 修复版 5 月 3 日上映",
-    "display_query": "《纵横四海》4K 修复版 5 月 3 日上映"
+    "query": "理想有部门全员无年终奖",
+    "display_query": "理想有部门全员无年终奖"
   },
   {
     "query": "阿里发布 Happy Oyster",
@@ -29,6 +25,16 @@
   {
     "query": "Anthropic发布Claude Opus 4.7",
     "display_query": "Anthropic发布Claude Opus 4.7"
+  },
+  { "query": "茅台净利润同比下降", "display_query": "茅台净利润同比下降" },
+  {
+    "query": "国产光纤部分产品价格暴涨 650%",
+    "display_query": "国产光纤部分产品价格暴涨 650%"
+  },
+  { "query": "胡博被罚款 80 万元", "display_query": "胡博被罚款 80 万元" },
+  {
+    "query": "《纵横四海》4K 修复版 5 月 3 日上映",
+    "display_query": "《纵横四海》4K 修复版 5 月 3 日上映"
   },
   { "query": "教资成绩", "display_query": "教资成绩" },
   { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
