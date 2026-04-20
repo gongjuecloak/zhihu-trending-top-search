@@ -8,17 +8,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 20 2026 07:27:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 20 2026 12:50:51 GMT+0800 (China Standard Time) -->
 
+1. [国产光纤部分产品价格暴涨
+   650%](https://www.zhihu.com/search?q=国产光纤部分产品价格暴涨 650%)
+1. [胡博被罚款 80 万元](https://www.zhihu.com/search?q=胡博被罚款 80 万元)
+1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=蜜蜂为什么要把身上的花粉刮下来)
+1. [理想有部门全员无年终奖](https://www.zhihu.com/search?q=理想有部门全员无年终奖)
+1. [《纵横四海》4K 修复版 5 月 3
+   日上映](https://www.zhihu.com/search?q=《纵横四海》4K 修复版 5 月 3 日上映)
+1. [阿里发布 Happy Oyster](https://www.zhihu.com/search?q=阿里发布 Happy Oyster)
+1. [尼格买提薛之谦因染发引发健康问题](https://www.zhihu.com/search?q=尼格买提薛之谦因染发引发健康问题)
+1. [Anthropic发布Claude Opus
+   4.7](https://www.zhihu.com/search?q=Anthropic发布Claude Opus 4.7)
 1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
 1. [3月70城房价出炉](https://www.zhihu.com/search?q=3月70城房价出炉)
 1. [五一假期首日火车票今日开售](https://www.zhihu.com/search?q=五一假期首日火车票今日开售)
 1. [电子游戏中有哪些误译](https://www.zhihu.com/search?q=电子游戏中有哪些误译)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
 1. [TES战胜BLG](https://www.zhihu.com/search?q=TES战胜BLG)
-1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
 1. [苏超公布2026年赞助商](https://www.zhihu.com/search?q=苏超公布2026年赞助商)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [2026 苏超十三队队服发布](https://www.zhihu.com/search?q=2026
    苏超十三队队服发布)
 
