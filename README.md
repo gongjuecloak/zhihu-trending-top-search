@@ -8,20 +8,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 20 2026 15:10:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 20 2026 17:48:47 GMT+0800 (China Standard Time) -->
 
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
+1. [日本发生7.5级地震](https://www.zhihu.com/search?q=日本发生7.5级地震)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=蜜蜂为什么要把身上的花粉刮下来)
 1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026
    人形机器人半程马拉松赛)
 1. [理想有部门全员无年终奖](https://www.zhihu.com/search?q=理想有部门全员无年终奖)
 1. [阿里发布 Happy Oyster](https://www.zhihu.com/search?q=阿里发布 Happy Oyster)
-1. [尼格买提薛之谦因染发引发健康问题](https://www.zhihu.com/search?q=尼格买提薛之谦因染发引发健康问题)
 1. [Anthropic发布Claude Opus
    4.7](https://www.zhihu.com/search?q=Anthropic发布Claude Opus 4.7)
 1. [茅台净利润同比下降](https://www.zhihu.com/search?q=茅台净利润同比下降)
+1. [尼格买提薛之谦因染发引发健康问题](https://www.zhihu.com/search?q=尼格买提薛之谦因染发引发健康问题)
 1. [国产光纤部分产品价格暴涨
    650%](https://www.zhihu.com/search?q=国产光纤部分产品价格暴涨 650%)
 1. [胡博被罚款 80 万元](https://www.zhihu.com/search?q=胡博被罚款 80 万元)
