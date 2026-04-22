@@ -1,9 +1,6 @@
 [
-  { "query": "国产光纤全球爆单", "display_query": "国产光纤全球爆单" },
-  {
-    "query": "华为 Pura90 有哪些亮点和槽点",
-    "display_query": "华为 Pura90 有哪些亮点和槽点"
-  },
+  { "query": "小米汽车", "display_query": "小米汽车" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -18,11 +15,15 @@
     "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
     "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管"
   },
+  { "query": "国产光纤全球爆单", "display_query": "国产光纤全球爆单" },
+  {
+    "query": "华为 Pura90 有哪些亮点和槽点",
+    "display_query": "华为 Pura90 有哪些亮点和槽点"
+  },
   {
     "query": "为什么植物在外界生命很顽强",
     "display_query": "为什么植物在外界生命很顽强"
   },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   {
     "query": "孙杨张豆豆妻子的浪漫旅行表现",
     "display_query": "孙杨张豆豆妻子的浪漫旅行表现"
