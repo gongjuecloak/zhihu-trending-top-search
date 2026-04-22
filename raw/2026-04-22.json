@@ -1,9 +1,6 @@
 [
-  {
-    "query": "彭士禄院士与家人的特殊合同",
-    "display_query": "彭士禄院士与家人的特殊合同"
-  },
-  { "query": "美关税退款系统上线", "display_query": "美关税退款系统上线" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "小米汽车", "display_query": "小米汽车" },
   { "query": "接英雄回家", "display_query": "接英雄回家" },
   { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
@@ -21,7 +18,11 @@
     "display_query": "哪些名场面让你记住了整部动漫"
   },
   { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
-  { "query": "小米汽车", "display_query": "小米汽车" },
+  {
+    "query": "彭士禄院士与家人的特殊合同",
+    "display_query": "彭士禄院士与家人的特殊合同"
+  },
+  { "query": "美关税退款系统上线", "display_query": "美关税退款系统上线" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
