@@ -1,6 +1,5 @@
 [
-  { "query": "勇士vs太阳", "display_query": "勇士vs太阳" },
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "Kimi 发布并开源 K2.6", "display_query": "Kimi 发布并开源 K2.6" },
   { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
   { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   {
@@ -20,5 +19,8 @@
     "display_query": "为什么有的人特别容易紧张"
   },
   { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
-  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" }
+  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" },
+  { "query": "真的有先父遗传吗", "display_query": "真的有先父遗传吗" },
+  { "query": "勇士vs太阳", "display_query": "勇士vs太阳" },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" }
 ]
