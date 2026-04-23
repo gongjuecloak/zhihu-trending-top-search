@@ -8,8 +8,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 23 2026 18:14:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 23 2026 19:53:54 GMT+0800 (China Standard Time) -->
 
+1. [美团副总裁夏华夏离职](https://www.zhihu.com/search?q=美团副总裁夏华夏离职)
+1. [尚界Z7 趴窝](https://www.zhihu.com/search?q=尚界Z7 趴窝)
+1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
+1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
+1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
+1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
+1. [真的有先父遗传吗](https://www.zhihu.com/search?q=真的有先父遗传吗)
+1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=为什么安陵容这类人难相处)
+1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=为什么要无条件爱孩子)
+1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -30,7 +40,6 @@
 1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
 1. [哪些名场面让你记住了整部动漫](https://www.zhihu.com/search?q=哪些名场面让你记住了整部动漫)
-1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
 
 <!-- END -->
 
