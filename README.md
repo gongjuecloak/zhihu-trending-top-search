@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 23 2026 21:02:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 23 2026 23:29:29 GMT+0800 (China Standard Time) -->
 
-1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
+1. [小林优子锐评声优偶像化](https://www.zhihu.com/search?q=小林优子锐评声优偶像化)
+1. [何润东在苏超复刻「霸王巡场」](https://www.zhihu.com/search?q=何润东在苏超复刻「霸王巡场」)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
@@ -20,6 +20,8 @@
 1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=为什么安陵容这类人难相处)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=为什么要无条件爱孩子)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
+1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [美团副总裁夏华夏离职](https://www.zhihu.com/search?q=美团副总裁夏华夏离职)
 1. [尚界Z7 趴窝](https://www.zhihu.com/search?q=尚界Z7 趴窝)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)

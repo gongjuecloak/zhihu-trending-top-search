@@ -1,6 +1,12 @@
 [
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "小林优子锐评声优偶像化",
+    "display_query": "小林优子锐评声优偶像化"
+  },
+  {
+    "query": "何润东在苏超复刻「霸王巡场」",
+    "display_query": "何润东在苏超复刻「霸王巡场」"
+  },
   {
     "query": "为什么现在的孩子会沉迷手机",
     "display_query": "为什么现在的孩子会沉迷手机"
@@ -18,6 +24,8 @@
     "query": "认知水平高的人有什么特征",
     "display_query": "认知水平高的人有什么特征"
   },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "美团副总裁夏华夏离职", "display_query": "美团副总裁夏华夏离职" },
   { "query": "尚界Z7 趴窝", "display_query": "尚界Z7 趴窝" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
