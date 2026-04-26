@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 26 2026 20:42:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 26 2026 21:59:02 GMT+0800 (China Standard Time) -->
 
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
-1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
+1. [福建踹保安遭掌掴女子耳膜穿孔](https://www.zhihu.com/search?q=福建踹保安遭掌掴女子耳膜穿孔)
+1. [爱奇艺客服回应剧宣广告争议](https://www.zhihu.com/search?q=爱奇艺客服回应剧宣广告争议)
 1. [小米yu7](https://www.zhihu.com/search?q=小米yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -20,6 +20,8 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
 1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
+1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
+1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
 
 <!-- END -->
 
