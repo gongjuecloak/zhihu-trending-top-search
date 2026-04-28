@@ -8,8 +8,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 16:07:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 18:54:08 GMT+0800 (China Standard Time) -->
 
+1. [夫妻在楼道养鸡感染「鹦鹉热」住进
+   ICU](https://www.zhihu.com/search?q=夫妻在楼道养鸡感染「鹦鹉热」住进 ICU)
+1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
+1. [雷霆vs太阳](https://www.zhihu.com/search?q=雷霆vs太阳)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
@@ -28,7 +32,6 @@
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿)
 1. [王鹤棣演技](https://www.zhihu.com/search?q=王鹤棣演技)
 1. [DeepSeek](https://www.zhihu.com/search?q=DeepSeek)
-1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [赵心童战胜丁俊晖](https://www.zhihu.com/search?q=赵心童战胜丁俊晖)
 
