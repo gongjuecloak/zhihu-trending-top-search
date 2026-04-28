@@ -8,8 +8,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 07:42:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 10:01:53 GMT+0800 (China Standard Time) -->
 
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
+1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
+1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
+1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
+1. [妻子的浪漫旅行2026热播](https://www.zhihu.com/search?q=妻子的浪漫旅行2026热播)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
