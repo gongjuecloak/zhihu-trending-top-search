@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 02:04:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 04:04:32 GMT+0800 (China Standard Time) -->
 
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [掘金vs森林狼](https://www.zhihu.com/search?q=掘金vs森林狼)
