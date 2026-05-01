@@ -8,15 +8,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 10:06:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 13:59:17 GMT+0800 (China Standard Time) -->
 
-1. [人的情感被简化成生理本能](https://www.zhihu.com/search?q=人的情感被简化成生理本能)
-1. [李想与大众高管隔空互怼](https://www.zhihu.com/search?q=李想与大众高管隔空互怼)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=蜜蜂为什么要把身上的花粉刮下来)
+1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
+   预览版上线并开源)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
    百万上下文)
 1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=追觅CEO炮轰小红书)
-1. [女子徒手给月子里宝宝打耳洞](https://www.zhihu.com/search?q=女子徒手给月子里宝宝打耳洞)
 1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=网友做完光子嫩肤后眼睛不适)
+1. [人的情感被简化成生理本能](https://www.zhihu.com/search?q=人的情感被简化成生理本能)
+1. [李想与大众高管隔空互怼](https://www.zhihu.com/search?q=李想与大众高管隔空互怼)
+1. [女子徒手给月子里宝宝打耳洞](https://www.zhihu.com/search?q=女子徒手给月子里宝宝打耳洞)
 1. [2026五一假期](https://www.zhihu.com/search?q=2026五一假期)
 1. [2026五一档](https://www.zhihu.com/search?q=2026五一档)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=阿 Sa 蔡卓妍官宣结婚)

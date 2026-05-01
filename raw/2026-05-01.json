@@ -1,4 +1,29 @@
 [
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "蜜蜂为什么要把身上的花粉刮下来",
+    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
+  },
+  {
+    "query": "DeepSeek V4 预览版上线并开源",
+    "display_query": "DeepSeek V4 预览版上线并开源"
+  },
+  {
+    "query": "DeepSeek v4 百万上下文",
+    "display_query": "DeepSeek v4 百万上下文"
+  },
+  { "query": "追觅CEO炮轰小红书", "display_query": "追觅CEO炮轰小红书" },
+  {
+    "query": "网友做完光子嫩肤后眼睛不适",
+    "display_query": "网友做完光子嫩肤后眼睛不适"
+  },
   {
     "query": "人的情感被简化成生理本能",
     "display_query": "人的情感被简化成生理本能"
@@ -8,17 +33,8 @@
     "display_query": "李想与大众高管隔空互怼"
   },
   {
-    "query": "DeepSeek v4 百万上下文",
-    "display_query": "DeepSeek v4 百万上下文"
-  },
-  { "query": "追觅CEO炮轰小红书", "display_query": "追觅CEO炮轰小红书" },
-  {
     "query": "女子徒手给月子里宝宝打耳洞",
     "display_query": "女子徒手给月子里宝宝打耳洞"
-  },
-  {
-    "query": "网友做完光子嫩肤后眼睛不适",
-    "display_query": "网友做完光子嫩肤后眼睛不适"
   },
   { "query": "2026五一假期", "display_query": "2026五一假期" },
   { "query": "2026五一档", "display_query": "2026五一档" },
