@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 18:15:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 19:51:00 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -20,13 +20,14 @@
    预览版上线并开源)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
    百万上下文)
+1. [2026五一档](https://www.zhihu.com/search?q=2026五一档)
+1. [追觅发布火箭汽车](https://www.zhihu.com/search?q=追觅发布火箭汽车)
 1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=网友做完光子嫩肤后眼睛不适)
 1. [2026五一假期](https://www.zhihu.com/search?q=2026五一假期)
 1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=追觅CEO炮轰小红书)
 1. [人的情感被简化成生理本能](https://www.zhihu.com/search?q=人的情感被简化成生理本能)
 1. [李想与大众高管隔空互怼](https://www.zhihu.com/search?q=李想与大众高管隔空互怼)
 1. [女子徒手给月子里宝宝打耳洞](https://www.zhihu.com/search?q=女子徒手给月子里宝宝打耳洞)
-1. [2026五一档](https://www.zhihu.com/search?q=2026五一档)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=阿 Sa 蔡卓妍官宣结婚)
 1. [张雪称已拒绝半个亿的商务合作](https://www.zhihu.com/search?q=张雪称已拒绝半个亿的商务合作)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
