@@ -8,21 +8,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 05 2026 13:15:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 05 2026 15:54:38 GMT+0800 (China Standard Time) -->
 
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [曝 iPhone18Pro 定价激进](https://www.zhihu.com/search?q=曝 iPhone18Pro
+   定价激进)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [电影《寒战 1994》热映](https://www.zhihu.com/search?q=电影《寒战 1994》热映)
-1. [电影《10 间敢死队》热映](https://www.zhihu.com/search?q=电影《10
-   间敢死队》热映)
 1. [多家车企公布 4 月交付量](https://www.zhihu.com/search?q=多家车企公布 4
    月交付量)
 1. [小米汽车 4 月交付量超 3 万台](https://www.zhihu.com/search?q=小米汽车 4
    月交付量超 3 万台)
 1. [水银奶茶事件被曝疑似系男友投毒](https://www.zhihu.com/search?q=水银奶茶事件被曝疑似系男友投毒)
+1. [五一档票房破 2 亿](https://www.zhihu.com/search?q=五一档票房破 2 亿)
+1. [网传今年河南蒜薹丰产不丰收](https://www.zhihu.com/search?q=网传今年河南蒜薹丰产不丰收)
+1. [张雪机车匈牙利站首回合第一](https://www.zhihu.com/search?q=张雪机车匈牙利站首回合第一)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [电影《10 间敢死队》热映](https://www.zhihu.com/search?q=电影《10
+   间敢死队》热映)
 1. [湖人淘汰火箭](https://www.zhihu.com/search?q=湖人淘汰火箭)
 1. [现货黄金冲破4600美元](https://www.zhihu.com/search?q=现货黄金冲破4600美元)
 1. [5月起未经同意不得发送商业短信](https://www.zhihu.com/search?q=5月起未经同意不得发送商业短信)
