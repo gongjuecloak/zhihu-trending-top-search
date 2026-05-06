@@ -1,6 +1,12 @@
 [
-  { "query": "中超联赛", "display_query": "中超联赛" },
-  { "query": "时代少年团演唱会", "display_query": "时代少年团演唱会" },
+  {
+    "query": "德比斯和张雪机车仍排总榜第三",
+    "display_query": "德比斯和张雪机车仍排总榜第三"
+  },
+  {
+    "query": "余意曝陈昊宇私会她男友",
+    "display_query": "余意曝陈昊宇私会她男友"
+  },
   { "query": "坚持油车的原因是什么", "display_query": "坚持油车的原因是什么" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   { "query": "美股三大指数集体高开", "display_query": "美股三大指数集体高开" },
@@ -15,6 +21,8 @@
     "query": "为什么安陵容这类人难相处",
     "display_query": "为什么安陵容这类人难相处"
   },
+  { "query": "中超联赛", "display_query": "中超联赛" },
+  { "query": "时代少年团演唱会", "display_query": "时代少年团演唱会" },
   {
     "query": "紧跟台积电三星市值1万亿美元",
     "display_query": "紧跟台积电三星市值1万亿美元"
