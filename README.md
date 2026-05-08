@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 08 2026 21:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 08 2026 23:12:56 GMT+0800 (China Standard Time) -->
 
 1. [伊朗](https://www.zhihu.com/search?q=伊朗)
 1. [国乒女团晋级四强](https://www.zhihu.com/search?q=国乒女团晋级四强)
