@@ -1,9 +1,6 @@
 [
-  { "query": "伊朗", "display_query": "伊朗" },
-  { "query": "国乒女团晋级四强", "display_query": "国乒女团晋级四强" },
-  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
-  { "query": "今晚油价上调", "display_query": "今晚油价上调" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -11,5 +8,15 @@
   {
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
-  }
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "这三种泳衣颜色一旦溺水难被发现",
+    "display_query": "这三种泳衣颜色一旦溺水难被发现"
+  },
+  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
+  { "query": "伊朗", "display_query": "伊朗" },
+  { "query": "国乒女团晋级四强", "display_query": "国乒女团晋级四强" },
+  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
+  { "query": "今晚油价上调", "display_query": "今晚油价上调" }
 ]
