@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 09 2026 15:43:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 09 2026 17:08:21 GMT+0800 (China Standard Time) -->
 
-1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
+1. [主办方回应激光束扫到王心凌](https://www.zhihu.com/search?q=主办方回应激光束扫到王心凌)
+1. [nip战胜al](https://www.zhihu.com/search?q=nip战胜al)
 1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=俄罗斯胜利日阅兵)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -19,6 +20,7 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
+1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
 1. [伊朗](https://www.zhihu.com/search?q=伊朗)
 1. [国乒女团晋级四强](https://www.zhihu.com/search?q=国乒女团晋级四强)

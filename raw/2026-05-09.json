@@ -1,5 +1,9 @@
 [
-  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
+  {
+    "query": "主办方回应激光束扫到王心凌",
+    "display_query": "主办方回应激光束扫到王心凌"
+  },
+  { "query": "nip战胜al", "display_query": "nip战胜al" },
   { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -14,6 +18,7 @@
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
   },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
   { "query": "伊朗", "display_query": "伊朗" },
   { "query": "国乒女团晋级四强", "display_query": "国乒女团晋级四强" },
