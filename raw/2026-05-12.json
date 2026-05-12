@@ -1,9 +1,5 @@
 [
-  { "query": "A股刷新多个新高", "display_query": "A股刷新多个新高" },
-  {
-    "query": "西班牙完成涉疫邮轮转运",
-    "display_query": "西班牙完成涉疫邮轮转运"
-  },
+  { "query": "国际护士节", "display_query": "国际护士节" },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
@@ -29,6 +25,15 @@
   {
     "query": "体制内工作最好的心态是什么",
     "display_query": "体制内工作最好的心态是什么"
+  },
+  {
+    "query": "你心目中的排名第一的雪糕",
+    "display_query": "你心目中的排名第一的雪糕"
+  },
+  { "query": "A股刷新多个新高", "display_query": "A股刷新多个新高" },
+  {
+    "query": "西班牙完成涉疫邮轮转运",
+    "display_query": "西班牙完成涉疫邮轮转运"
   },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
