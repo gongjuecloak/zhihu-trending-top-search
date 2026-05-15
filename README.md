@@ -8,8 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 15 2026 10:11:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 15 2026 14:23:52 GMT+0800 (China Standard Time) -->
 
+1. [国际足联官网没中文模式](https://www.zhihu.com/search?q=国际足联官网没中文模式)
+1. [万亿市值巨头涨停](https://www.zhihu.com/search?q=万亿市值巨头涨停)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
