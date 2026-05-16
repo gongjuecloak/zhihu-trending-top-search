@@ -1,4 +1,5 @@
 [
+  { "query": "股市", "display_query": "股市" },
   {
     "query": "广东启动防汛ⅳ级应急响应",
     "display_query": "广东启动防汛ⅳ级应急响应"
@@ -22,6 +23,5 @@
   {
     "query": "刘宇宁恳请粉丝最近不要跟拍",
     "display_query": "刘宇宁恳请粉丝最近不要跟拍"
-  },
-  { "query": "股市", "display_query": "股市" }
+  }
 ]
