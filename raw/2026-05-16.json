@@ -1,9 +1,4 @@
 [
-  { "query": "马刺3比2森林狼", "display_query": "马刺3比2森林狼" },
-  {
-    "query": "刘宇宁恳请粉丝最近不要跟拍",
-    "display_query": "刘宇宁恳请粉丝最近不要跟拍"
-  },
   {
     "query": "广东启动防汛ⅳ级应急响应",
     "display_query": "广东启动防汛ⅳ级应急响应"
@@ -21,6 +16,12 @@
   { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "股市", "display_query": "股市" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  { "query": "马刺3比2森林狼", "display_query": "马刺3比2森林狼" },
+  {
+    "query": "刘宇宁恳请粉丝最近不要跟拍",
+    "display_query": "刘宇宁恳请粉丝最近不要跟拍"
+  },
+  { "query": "股市", "display_query": "股市" }
 ]
