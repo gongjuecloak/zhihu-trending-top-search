@@ -1,13 +1,8 @@
 [
-  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
+    "query": "咬壳吃荔枝真能不上火吗",
+    "display_query": "咬壳吃荔枝真能不上火吗"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "榴莲价格大降", "display_query": "榴莲价格大降" },
   {
     "query": "沪深两市成交额突破3万亿元",
@@ -20,5 +15,24 @@
   {
     "query": "追觅创始人俞浩回应崩老头",
     "display_query": "追觅创始人俞浩回应崩老头"
-  }
+  },
+  { "query": "美股半导体板块大跌", "display_query": "美股半导体板块大跌" },
+  {
+    "query": "成都一家长控诉二次元毒害孩子",
+    "display_query": "成都一家长控诉二次元毒害孩子"
+  },
+  { "query": "张小珺对谈姚顺宇", "display_query": "张小珺对谈姚顺宇" },
+  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
+  {
+    "query": "贯穿南北的大范围降雨来了",
+    "display_query": "贯穿南北的大范围降雨来了"
+  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
 ]
