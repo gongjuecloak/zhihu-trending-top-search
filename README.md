@@ -8,9 +8,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 19 2026 14:40:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 19 2026 18:32:10 GMT+0800 (China Standard Time) -->
 
 1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
+1. [全国多地暴雨](https://www.zhihu.com/search?q=全国多地暴雨)
+1. [吃自助餐真的能吃回本吗](https://www.zhihu.com/search?q=吃自助餐真的能吃回本吗)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
