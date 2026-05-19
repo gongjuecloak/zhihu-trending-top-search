@@ -8,24 +8,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 19 2026 07:56:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 19 2026 10:40:17 GMT+0800 (China Standard Time) -->
 
-1. [咬壳吃荔枝真能不上火吗](https://www.zhihu.com/search?q=咬壳吃荔枝真能不上火吗)
-1. [榴莲价格大降](https://www.zhihu.com/search?q=榴莲价格大降)
-1. [沪深两市成交额突破3万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破3万亿元)
-1. [宇树发布 GD01 载人变形机甲](https://www.zhihu.com/search?q=宇树发布 GD01
-   载人变形机甲)
-1. [追觅创始人俞浩回应崩老头](https://www.zhihu.com/search?q=追觅创始人俞浩回应崩老头)
-1. [美股半导体板块大跌](https://www.zhihu.com/search?q=美股半导体板块大跌)
-1. [成都一家长控诉二次元毒害孩子](https://www.zhihu.com/search?q=成都一家长控诉二次元毒害孩子)
-1. [张小珺对谈姚顺宇](https://www.zhihu.com/search?q=张小珺对谈姚顺宇)
-1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
-1. [贯穿南北的大范围降雨来了](https://www.zhihu.com/search?q=贯穿南北的大范围降雨来了)
+1. [美国取消向波兰部署四千余名美军](https://www.zhihu.com/search?q=美国取消向波兰部署四千余名美军)
+1. [广西皮卡车坠河致 1 死 9
+   失联](https://www.zhihu.com/search?q=广西皮卡车坠河致 1 死 9 失联)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [榴莲价格大降](https://www.zhihu.com/search?q=榴莲价格大降)
+1. [沪深两市成交额突破3万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破3万亿元)
+1. [追觅创始人俞浩回应崩老头](https://www.zhihu.com/search?q=追觅创始人俞浩回应崩老头)
+1. [咬壳吃荔枝真能不上火吗](https://www.zhihu.com/search?q=咬壳吃荔枝真能不上火吗)
+1. [宇树发布 GD01 载人变形机甲](https://www.zhihu.com/search?q=宇树发布 GD01
+   载人变形机甲)
+1. [美股半导体板块大跌](https://www.zhihu.com/search?q=美股半导体板块大跌)
+1. [成都一家长控诉二次元毒害孩子](https://www.zhihu.com/search?q=成都一家长控诉二次元毒害孩子)
+1. [张小珺对谈姚顺宇](https://www.zhihu.com/search?q=张小珺对谈姚顺宇)
+1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
+1. [贯穿南北的大范围降雨来了](https://www.zhihu.com/search?q=贯穿南北的大范围降雨来了)
 
 <!-- END -->
 
