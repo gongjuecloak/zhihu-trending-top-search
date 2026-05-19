@@ -5,6 +5,10 @@
     "query": "吃自助餐真的能吃回本吗",
     "display_query": "吃自助餐真的能吃回本吗"
   },
+  {
+    "query": "沪深两市成交额突破2万亿元",
+    "display_query": "沪深两市成交额突破2万亿元"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -13,6 +17,10 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "贯穿南北的大范围降雨来了",
+    "display_query": "贯穿南北的大范围降雨来了"
+  },
   { "query": "张小珺对谈姚顺宇", "display_query": "张小珺对谈姚顺宇" },
   {
     "query": "Anthropic 估值反超 OpenAI",
@@ -52,9 +60,5 @@
   {
     "query": "成都一家长控诉二次元毒害孩子",
     "display_query": "成都一家长控诉二次元毒害孩子"
-  },
-  {
-    "query": "贯穿南北的大范围降雨来了",
-    "display_query": "贯穿南北的大范围降雨来了"
   }
 ]
