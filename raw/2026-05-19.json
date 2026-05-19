@@ -1,12 +1,5 @@
 [
-  {
-    "query": "美国取消向波兰部署四千余名美军",
-    "display_query": "美国取消向波兰部署四千余名美军"
-  },
-  {
-    "query": "广西皮卡车坠河致 1 死 9 失联",
-    "display_query": "广西皮卡车坠河致 1 死 9 失联"
-  },
+  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -15,6 +8,24 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "张小珺对谈姚顺宇", "display_query": "张小珺对谈姚顺宇" },
+  {
+    "query": "Anthropic 估值反超 OpenAI",
+    "display_query": "Anthropic 估值反超 OpenAI"
+  },
+  { "query": "柯南毛利兰声优去世", "display_query": "柯南毛利兰声优去世" },
+  {
+    "query": "杨梅商贩浸泡8000倍超甜三无添加剂",
+    "display_query": "杨梅商贩浸泡8000倍超甜三无添加剂"
+  },
+  {
+    "query": "美国取消向波兰部署四千余名美军",
+    "display_query": "美国取消向波兰部署四千余名美军"
+  },
+  {
+    "query": "广西皮卡车坠河致 1 死 9 失联",
+    "display_query": "广西皮卡车坠河致 1 死 9 失联"
+  },
   { "query": "榴莲价格大降", "display_query": "榴莲价格大降" },
   {
     "query": "沪深两市成交额突破3万亿元",
@@ -37,8 +48,6 @@
     "query": "成都一家长控诉二次元毒害孩子",
     "display_query": "成都一家长控诉二次元毒害孩子"
   },
-  { "query": "张小珺对谈姚顺宇", "display_query": "张小珺对谈姚顺宇" },
-  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
   {
     "query": "贯穿南北的大范围降雨来了",
     "display_query": "贯穿南北的大范围降雨来了"
