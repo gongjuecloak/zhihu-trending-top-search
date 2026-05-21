@@ -1,6 +1,6 @@
 [
-  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
-  { "query": "A股三大指数集体翻红", "display_query": "A股三大指数集体翻红" },
+  { "query": "iphone绝版配件回归", "display_query": "iphone绝版配件回归" },
+  { "query": "曝监狱来的妈妈撤档", "display_query": "曝监狱来的妈妈撤档" },
   { "query": "英伟达财报", "display_query": "英伟达财报" },
   { "query": "马刺vs雷霆", "display_query": "马刺vs雷霆" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
@@ -12,6 +12,8 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "低智商犯罪大结局", "display_query": "低智商犯罪大结局" },
+  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "A股三大指数集体翻红", "display_query": "A股三大指数集体翻红" },
   {
     "query": "泰兰尼斯被曝千元童鞋成本仅37元",
     "display_query": "泰兰尼斯被曝千元童鞋成本仅37元"
