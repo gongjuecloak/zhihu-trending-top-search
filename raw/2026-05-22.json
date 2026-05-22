@@ -1,5 +1,8 @@
 [
-  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "面试空窗期", "display_query": "面试空窗期" },
+  { "query": "生活实用技巧分享", "display_query": "生活实用技巧分享" },
+  { "query": "油价今晚上调", "display_query": "油价今晚上调" },
+  { "query": "金价", "display_query": "金价" },
   { "query": "英伟达财报", "display_query": "英伟达财报" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -9,6 +12,7 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
   { "query": "5月15日A股行情", "display_query": "5月15日A股行情" },
   {
     "query": "电影《监狱来的妈妈》引争议",
