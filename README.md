@@ -8,17 +8,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 31 2026 14:50:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 31 2026 17:42:25 GMT+0800 (China Standard Time) -->
 
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=日本本州东部6.5级地震)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711门店广告夯爆了写成劣爆了)
 1. [「碳水脸」说法引争议](https://www.zhihu.com/search?q=「碳水脸」说法引争议)
+1. [中国首个亿级车企诞生](https://www.zhihu.com/search?q=中国首个亿级车企诞生)
+1. [留神峪煤矿有重大违法行为](https://www.zhihu.com/search?q=留神峪煤矿有重大违法行为)
+1. [中方回应停止向日本出口重稀土](https://www.zhihu.com/search?q=中方回应停止向日本出口重稀土)
+1. [法拉利史上首款电动车亮相](https://www.zhihu.com/search?q=法拉利史上首款电动车亮相)
+1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=日本本州东部6.5级地震)
 1. [全球100个最热城市印度占98个](https://www.zhihu.com/search?q=全球100个最热城市印度占98个)
 
 <!-- END -->
