@@ -8,14 +8,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 18:03:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 22:42:14 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
+1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
+1. [高考祝福](https://www.zhihu.com/search?q=高考祝福)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=车企 5 月销量数据出炉)
 1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
+1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
 1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
 1. [新格伦火箭发射台爆炸](https://www.zhihu.com/search?q=新格伦火箭发射台爆炸)
 1. [鞠萍姐姐 6 月 1 日正式退休](https://www.zhihu.com/search?q=鞠萍姐姐 6 月 1
