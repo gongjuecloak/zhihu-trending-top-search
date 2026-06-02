@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 03 2026 02:31:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 03 2026 05:41:03 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
 1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
