@@ -8,11 +8,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 13:22:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 18:03:57 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
-1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
+1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=车企 5 月销量数据出炉)
+1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
+1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
+1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
+1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
+1. [新格伦火箭发射台爆炸](https://www.zhihu.com/search?q=新格伦火箭发射台爆炸)
+1. [鞠萍姐姐 6 月 1 日正式退休](https://www.zhihu.com/search?q=鞠萍姐姐 6 月 1
+   日正式退休)
+1. [泰州队1:2苏州队](https://www.zhihu.com/search?q=泰州队1:2苏州队)
+1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
