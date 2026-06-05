@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 05 2026 05:23:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 05 2026 10:32:48 GMT+0800 (China Standard Time) -->
 
 1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
