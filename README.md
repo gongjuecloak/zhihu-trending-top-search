@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 11 2026 18:06:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 11 2026 22:29:27 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [人到中年读书还有意义吗](https://www.zhihu.com/search?q=人到中年读书还有意义吗)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
