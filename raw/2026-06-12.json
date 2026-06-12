@@ -1,10 +1,6 @@
 [
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
-  {
-    "query": "人到中年读书还有意义吗",
-    "display_query": "人到中年读书还有意义吗"
-  },
+  { "query": "高考作文", "display_query": "高考作文" },
   {
     "query": "伊朗计划彻底封锁霍尔木兹海峡",
     "display_query": "伊朗计划彻底封锁霍尔木兹海峡"
@@ -14,6 +10,19 @@
   { "query": "2026高考地理", "display_query": "2026高考地理" },
   { "query": "2026高考化学", "display_query": "2026高考化学" },
   { "query": "2026高考生物", "display_query": "2026高考生物" },
+  {
+    "query": "钉钉内网7.5万字长文《置身钉内》",
+    "display_query": "钉钉内网7.5万字长文《置身钉内》"
+  },
+  {
+    "query": "重回高考那年还能做对几道",
+    "display_query": "重回高考那年还能做对几道"
+  },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
+  {
+    "query": "人到中年读书还有意义吗",
+    "display_query": "人到中年读书还有意义吗"
+  },
   { "query": "上海男篮夺cba总冠军", "display_query": "上海男篮夺cba总冠军" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
