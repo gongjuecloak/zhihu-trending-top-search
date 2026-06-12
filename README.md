@@ -8,10 +8,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 12 2026 19:35:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 22:35:27 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [HLE战胜T1](https://www.zhihu.com/search?q=HLE战胜T1)
 1. [伊朗计划彻底封锁霍尔木兹海峡](https://www.zhihu.com/search?q=伊朗计划彻底封锁霍尔木兹海峡)
 1. [2026 高考](https://www.zhihu.com/search?q=2026 高考)
 1. [2026高考英语](https://www.zhihu.com/search?q=2026高考英语)
