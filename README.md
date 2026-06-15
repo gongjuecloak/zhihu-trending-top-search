@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 16 2026 01:58:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 16 2026 04:45:02 GMT+0800 (China Standard Time) -->
 
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
 1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
