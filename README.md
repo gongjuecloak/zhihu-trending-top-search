@@ -8,12 +8,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 15 2026 14:14:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 15 2026 20:57:33 GMT+0800 (China Standard Time) -->
 
+1. [英语四级](https://www.zhihu.com/search?q=英语四级)
+1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
+1. [LCK](https://www.zhihu.com/search?q=LCK)
+1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX被曝IPO定价135美元)
+1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
+1. [浪姐否认观众辱骂王濛](https://www.zhihu.com/search?q=浪姐否认观众辱骂王濛)
+1. [孟羽童主动向平安高管求职](https://www.zhihu.com/search?q=孟羽童主动向平安高管求职)
+1. [谢娜北京演唱会售罄](https://www.zhihu.com/search?q=谢娜北京演唱会售罄)
+1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=马斯克成首位万亿富翁)
+1. [钓鱼饵料含安眠药](https://www.zhihu.com/search?q=钓鱼饵料含安眠药)
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
-1. [英语四级](https://www.zhihu.com/search?q=英语四级)
-1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
 1. [张慧雯淘汰](https://www.zhihu.com/search?q=张慧雯淘汰)
 1. [张桂梅连续16年送考](https://www.zhihu.com/search?q=张桂梅连续16年送考)
 1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=昔日零分考生37岁再战高考)
