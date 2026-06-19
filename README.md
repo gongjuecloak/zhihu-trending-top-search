@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 19 2026 07:41:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 19 2026 10:59:22 GMT+0800 (China Standard Time) -->
 
+1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)
 1. [高考查分心情](https://www.zhihu.com/search?q=高考查分心情)
