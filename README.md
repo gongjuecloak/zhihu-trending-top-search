@@ -8,8 +8,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 22 2026 10:49:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 22 2026 16:48:42 GMT+0800 (China Standard Time) -->
 
+1. [易立竞采访向佐](https://www.zhihu.com/search?q=易立竞采访向佐)
+1. [72 家 A 股公司提示投资风险](https://www.zhihu.com/search?q=72 家 A
+   股公司提示投资风险)
+1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C罗首秀状态不佳全场0射正)
+1. [周冬雨段奕宏被曝演话剧不背台词](https://www.zhihu.com/search?q=周冬雨段奕宏被曝演话剧不背台词)
+1. [日元兑美元人民币创新低](https://www.zhihu.com/search?q=日元兑美元人民币创新低)
+1. [小孩姐吐槽小米雷军武汉过早](https://www.zhihu.com/search?q=小孩姐吐槽小米雷军武汉过早)
+1. [土耳其0-1十人巴拉圭提前出局](https://www.zhihu.com/search?q=土耳其0-1十人巴拉圭提前出局)
+1. [美国怀疑顶级光刻机流入中国ASML否认](https://www.zhihu.com/search?q=美国怀疑顶级光刻机流入中国ASML否认)
+1. [土耳其2场狂轰62次射门0进球](https://www.zhihu.com/search?q=土耳其2场狂轰62次射门0进球)
+1. [滴露消毒液广告被指物化女性](https://www.zhihu.com/search?q=滴露消毒液广告被指物化女性)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)
 1. [尼克斯nba总冠军](https://www.zhihu.com/search?q=尼克斯nba总冠军)
