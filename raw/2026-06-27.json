@@ -1,8 +1,6 @@
 [
-  {
-    "query": "记者质问韩国队是否食物中毒",
-    "display_query": "记者质问韩国队是否食物中毒"
-  },
+  { "query": "河南高考出分", "display_query": "河南高考出分" },
+  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
   { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },
   { "query": "北京高考分数线公布", "display_query": "北京高考分数线公布" },
@@ -14,7 +12,9 @@
   },
   { "query": "你最近过的怎样", "display_query": "你最近过的怎样" },
   { "query": "iPhone会涨价吗", "display_query": "iPhone会涨价吗" },
-  { "query": "上海高考出分", "display_query": "上海高考出分" },
-  { "query": "河南高考出分", "display_query": "河南高考出分" },
-  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" }
+  {
+    "query": "记者质问韩国队是否食物中毒",
+    "display_query": "记者质问韩国队是否食物中毒"
+  },
+  { "query": "上海高考出分", "display_query": "上海高考出分" }
 ]
