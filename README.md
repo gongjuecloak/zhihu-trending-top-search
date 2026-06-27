@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 28 2026 06:54:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 28 2026 07:54:42 GMT+0800 (China Standard Time) -->
 
 1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
