@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 28 2026 21:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 28 2026 23:11:30 GMT+0800 (China Standard Time) -->
 
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
-1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
+1. [日本未来一周或再次强震](https://www.zhihu.com/search?q=日本未来一周或再次强震)
+1. [2026甘肃分数线发布](https://www.zhihu.com/search?q=2026甘肃分数线发布)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=山西高考分数线公布)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=北京高考分数线公布)
 1. [浙江高考分数线公布](https://www.zhihu.com/search?q=浙江高考分数线公布)
@@ -20,6 +20,8 @@
 1. [你最近过的怎样](https://www.zhihu.com/search?q=你最近过的怎样)
 1. [iPhone会涨价吗](https://www.zhihu.com/search?q=iPhone会涨价吗)
 1. [江苏高考出分](https://www.zhihu.com/search?q=江苏高考出分)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
+1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
 1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
 
 <!-- END -->

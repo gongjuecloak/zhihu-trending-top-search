@@ -1,6 +1,9 @@
 [
-  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
-  { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
+  {
+    "query": "日本未来一周或再次强震",
+    "display_query": "日本未来一周或再次强震"
+  },
+  { "query": "2026甘肃分数线发布", "display_query": "2026甘肃分数线发布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },
   { "query": "北京高考分数线公布", "display_query": "北京高考分数线公布" },
   { "query": "浙江高考分数线公布", "display_query": "浙江高考分数线公布" },
@@ -12,5 +15,7 @@
   { "query": "你最近过的怎样", "display_query": "你最近过的怎样" },
   { "query": "iPhone会涨价吗", "display_query": "iPhone会涨价吗" },
   { "query": "江苏高考出分", "display_query": "江苏高考出分" },
+  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
+  { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "河南高考出分", "display_query": "河南高考出分" }
 ]
