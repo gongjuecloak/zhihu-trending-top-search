@@ -8,8 +8,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 30 2026 14:47:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 30 2026 18:25:39 GMT+0800 (China Standard Time) -->
 
+1. [王安宇毕业证学位证丢失登报声明](https://www.zhihu.com/search?q=王安宇毕业证学位证丢失登报声明)
+1. [80后集体扎堆染黄毛](https://www.zhihu.com/search?q=80后集体扎堆染黄毛)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [2026国内票房与北美院线反差巨大](https://www.zhihu.com/search?q=2026国内票房与北美院线反差巨大)
+1. [欧洲热浪已致上百人死亡](https://www.zhihu.com/search?q=欧洲热浪已致上百人死亡)
+1. [OpenAI发布GPT-5.6系列模型](https://www.zhihu.com/search?q=OpenAI发布GPT-5.6系列模型)
+1. [热浪炙烤欧洲 多地打破高温纪录](https://www.zhihu.com/search?q=热浪炙烤欧洲
+   多地打破高温纪录)
+1. [欧洲35℃高温影响超1亿人](https://www.zhihu.com/search?q=欧洲35℃高温影响超1亿人)
+1. [中方对美企出口管制
+   美国要求撤销](https://www.zhihu.com/search?q=中方对美企出口管制 美国要求撤销)
+1. [DeepSeek智谱将使用华为昇腾
+   950](https://www.zhihu.com/search?q=DeepSeek智谱将使用华为昇腾 950)
 1. [蒸汽机是怎么输给内燃机的](https://www.zhihu.com/search?q=蒸汽机是怎么输给内燃机的)
 1. [反直觉的地理知识有哪些](https://www.zhihu.com/search?q=反直觉的地理知识有哪些)
 1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=高考查分是种什么样的体验)
