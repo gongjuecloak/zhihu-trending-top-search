@@ -8,9 +8,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 02 2026 17:52:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 02 2026 20:01:59 GMT+0800 (China Standard Time) -->
 
+1. [为什么在生活中几乎看不到雪茄](https://www.zhihu.com/search?q=为什么在生活中几乎看不到雪茄)
+1. [猪的战斗力在野外属于什么水平](https://www.zhihu.com/search?q=猪的战斗力在野外属于什么水平)
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
+1. [陈垣宇VS雨果](https://www.zhihu.com/search?q=陈垣宇VS雨果)
+1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
+1. [国内航线燃油附加费将下调](https://www.zhihu.com/search?q=国内航线燃油附加费将下调)
+1. [庆祝建党105周年](https://www.zhihu.com/search?q=庆祝建党105周年)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=笔趣阁APP再次爆火)
@@ -21,7 +27,6 @@
 1. [天下苦话费贵久矣](https://www.zhihu.com/search?q=天下苦话费贵久矣)
 1. [恋与深空回应三大争议](https://www.zhihu.com/search?q=恋与深空回应三大争议)
 1. [男子就餐劝阻带狗进店反被打](https://www.zhihu.com/search?q=男子就餐劝阻带狗进店反被打)
-1. [庆祝建党105周年](https://www.zhihu.com/search?q=庆祝建党105周年)
 1. [功率半导体缺货涨价](https://www.zhihu.com/search?q=功率半导体缺货涨价)
 1. [苏超淮安vs无锡](https://www.zhihu.com/search?q=苏超淮安vs无锡)
 1. [七月文案](https://www.zhihu.com/search?q=七月文案)
