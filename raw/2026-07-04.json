@@ -1,5 +1,12 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "SK海力士单日市值蒸发超万亿",
+    "display_query": "SK海力士单日市值蒸发超万亿"
+  },
+  {
+    "query": "下月起8种药品医保不再报销",
+    "display_query": "下月起8种药品医保不再报销"
+  },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -20,6 +27,7 @@
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
   },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "去旅游你对住宿有要求吗",
     "display_query": "去旅游你对住宿有要求吗"
