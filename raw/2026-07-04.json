@@ -1,5 +1,5 @@
 [
-  { "query": "BLG将与T1交手", "display_query": "BLG将与T1交手" },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -24,7 +24,7 @@
     "query": "去旅游你对住宿有要求吗",
     "display_query": "去旅游你对住宿有要求吗"
   },
-  { "query": "A股", "display_query": "A股" },
+  { "query": "BLG将与T1交手", "display_query": "BLG将与T1交手" },
   {
     "query": "你见过最惊艳的公司名称",
     "display_query": "你见过最惊艳的公司名称"
