@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 05 2026 19:22:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 05 2026 21:08:41 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
+1. [陈幸同美国大满贯](https://www.zhihu.com/search?q=陈幸同美国大满贯)
+1. [湖南一家5口惨遭灭门案告破](https://www.zhihu.com/search?q=湖南一家5口惨遭灭门案告破)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2对战TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=克罗地亚出局)
@@ -19,6 +20,7 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [去旅游你对住宿有要求吗](https://www.zhihu.com/search?q=去旅游你对住宿有要求吗)
 1. [美股芯片光通信大跌原因](https://www.zhihu.com/search?q=美股芯片光通信大跌原因)
 1. [经脉受损心气散了](https://www.zhihu.com/search?q=经脉受损心气散了)
