@@ -1,6 +1,5 @@
 [
-  { "query": "网红刘一手离婚", "display_query": "网红刘一手离婚" },
-  { "query": "曝郭宇欣掉饼", "display_query": "曝郭宇欣掉饼" },
+  { "query": "台风", "display_query": "台风" },
   { "query": "有线耳机", "display_query": "有线耳机" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
@@ -9,6 +8,9 @@
   { "query": "北京国安vs山东泰山", "display_query": "北京国安vs山东泰山" },
   { "query": "blg对战t1", "display_query": "blg对战t1" },
   { "query": "孙颖莎vs王艺迪", "display_query": "孙颖莎vs王艺迪" },
+  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
+  { "query": "网红刘一手离婚", "display_query": "网红刘一手离婚" },
+  { "query": "曝郭宇欣掉饼", "display_query": "曝郭宇欣掉饼" },
   { "query": "《南部档案》大结局", "display_query": "《南部档案》大结局" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
