@@ -1,9 +1,5 @@
 [
-  { "query": "陕西拟新增2所高校", "display_query": "陕西拟新增2所高校" },
-  {
-    "query": "郭德纲称郭麒麟剧组导演跪着等自己",
-    "display_query": "郭德纲称郭麒麟剧组导演跪着等自己"
-  },
+  { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "小暑", "display_query": "小暑" },
   { "query": "深圳暴雨", "display_query": "深圳暴雨" },
   { "query": "A股", "display_query": "A股" },
@@ -15,6 +11,12 @@
   { "query": "北京国安vs山东泰山", "display_query": "北京国安vs山东泰山" },
   { "query": "孙颖莎vs蒯曼", "display_query": "孙颖莎vs蒯曼" },
   { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
+  { "query": "七七事变", "display_query": "七七事变" },
+  { "query": "陕西拟新增2所高校", "display_query": "陕西拟新增2所高校" },
+  {
+    "query": "郭德纲称郭麒麟剧组导演跪着等自己",
+    "display_query": "郭德纲称郭麒麟剧组导演跪着等自己"
+  },
   {
     "query": "中国男篮92-74中国台北",
     "display_query": "中国男篮92-74中国台北"

@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 18:45:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 21:10:32 GMT+0800 (China Standard Time) -->
 
-1. [陕西拟新增2所高校](https://www.zhihu.com/search?q=陕西拟新增2所高校)
-1. [郭德纲称郭麒麟剧组导演跪着等自己](https://www.zhihu.com/search?q=郭德纲称郭麒麟剧组导演跪着等自己)
+1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [小暑](https://www.zhihu.com/search?q=小暑)
 1. [深圳暴雨](https://www.zhihu.com/search?q=深圳暴雨)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -20,6 +19,9 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
+1. [七七事变](https://www.zhihu.com/search?q=七七事变)
+1. [陕西拟新增2所高校](https://www.zhihu.com/search?q=陕西拟新增2所高校)
+1. [郭德纲称郭麒麟剧组导演跪着等自己](https://www.zhihu.com/search?q=郭德纲称郭麒麟剧组导演跪着等自己)
 1. [中国男篮92-74中国台北](https://www.zhihu.com/search?q=中国男篮92-74中国台北)
 1. [巴西 vs 挪威](https://www.zhihu.com/search?q=巴西 vs 挪威)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
