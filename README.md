@@ -8,8 +8,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 08 2026 13:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 16:08:04 GMT+0800 (China Standard Time) -->
 
+1. [瑞士 vs 哥伦比亚](https://www.zhihu.com/search?q=瑞士 vs 哥伦比亚)
+1. [曝房产公司「借薪制」](https://www.zhihu.com/search?q=曝房产公司「借薪制」)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)
+1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=恋与深空取消上线敖尹)
+1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=小红书遭举报存在VIE信披矛盾等问题)
+1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=茉莉奶白侵权
+   LV 被判赔 1030 万)
+1. [LV在中国密集维权](https://www.zhihu.com/search?q=LV在中国密集维权)
+1. [马未都回应观复博物馆疑现被盗佛像](https://www.zhihu.com/search?q=马未都回应观复博物馆疑现被盗佛像)
 1. [亨德森疑似庆祝时受伤](https://www.zhihu.com/search?q=亨德森疑似庆祝时受伤)
 1. [BLG晋级2026MSI胜决](https://www.zhihu.com/search?q=BLG晋级2026MSI胜决)
 1. [小暑](https://www.zhihu.com/search?q=小暑)
