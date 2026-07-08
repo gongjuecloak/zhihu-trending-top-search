@@ -1,4 +1,14 @@
 [
+  { "query": "北京暴雨", "display_query": "北京暴雨" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "裁判", "display_query": "裁判" },
+  { "query": "苏醒", "display_query": "苏醒" },
+  { "query": "G2对战T1", "display_query": "G2对战T1" },
+  { "query": "美股", "display_query": "美股" },
+  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
+  { "query": "电影奥德赛", "display_query": "电影奥德赛" },
+  { "query": "地震快讯", "display_query": "地震快讯" },
+  { "query": "功夫女足", "display_query": "功夫女足" },
   { "query": "瑞士 vs 哥伦比亚", "display_query": "瑞士 vs 哥伦比亚" },
   { "query": "曝房产公司「借薪制」", "display_query": "曝房产公司「借薪制」" },
   { "query": "高考数据通", "display_query": "高考数据通" },
@@ -30,7 +40,5 @@
   },
   { "query": "北京国安vs山东泰山", "display_query": "北京国安vs山东泰山" },
   { "query": "孙颖莎vs蒯曼", "display_query": "孙颖莎vs蒯曼" },
-  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
-  { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "七七事变", "display_query": "七七事变" }
 ]
