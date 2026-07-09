@@ -8,8 +8,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 09 2026 11:32:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 09 2026 15:33:59 GMT+0800 (China Standard Time) -->
 
+1. [一公司拟用茶叶抵扣员工 60
+   万工资](https://www.zhihu.com/search?q=一公司拟用茶叶抵扣员工 60 万工资)
+1. [国家一级文物现「TCL
+   电视」字样](https://www.zhihu.com/search?q=国家一级文物现「TCL 电视」字样)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=恋与深空取消上线敖尹)
+1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=小红书遭举报存在VIE信披矛盾等问题)
+1. [LV在中国密集维权](https://www.zhihu.com/search?q=LV在中国密集维权)
+1. [新能源车为啥不用动态续航显示](https://www.zhihu.com/search?q=新能源车为啥不用动态续航显示)
+1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=司晓迪疑曝与鹿晗暧昧照)
+1. [患者控诉每天四五点起床等医生查房](https://www.zhihu.com/search?q=患者控诉每天四五点起床等医生查房)
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [裁判](https://www.zhihu.com/search?q=裁判)
@@ -19,7 +31,6 @@
 1. [电影奥德赛](https://www.zhihu.com/search?q=电影奥德赛)
 1. [地震快讯](https://www.zhihu.com/search?q=地震快讯)
 1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 
 <!-- END -->
 
