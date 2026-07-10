@@ -1,9 +1,16 @@
 [
-  { "query": "台风", "display_query": "台风" },
+  {
+    "query": "情人收男子转账51万辩称是嫖资",
+    "display_query": "情人收男子转账51万辩称是嫖资"
+  },
+  { "query": "g2战胜t1", "display_query": "g2战胜t1" },
   { "query": "为什么要实行薪酬保密", "display_query": "为什么要实行薪酬保密" },
   { "query": "百花奖", "display_query": "百花奖" },
   { "query": "美股", "display_query": "美股" },
-  { "query": "g2战胜t1", "display_query": "g2战胜t1" },
+  {
+    "query": "张雪豪掷10万买小青龙给员工加餐",
+    "display_query": "张雪豪掷10万买小青龙给员工加餐"
+  },
   { "query": "功夫女足", "display_query": "功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
@@ -11,5 +18,6 @@
     "query": "小红书遭举报存在VIE信披矛盾等问题",
     "display_query": "小红书遭举报存在VIE信披矛盾等问题"
   },
+  { "query": "台风", "display_query": "台风" },
   { "query": "四面八方都是前方", "display_query": "四面八方都是前方" }
 ]
