@@ -8,10 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 11 2026 22:18:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 11 2026 23:44:04 GMT+0800 (China Standard Time) -->
 
-1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
+1. [陈翔删博](https://www.zhihu.com/search?q=陈翔删博)
+1. [阿根廷仙人指路](https://www.zhihu.com/search?q=阿根廷仙人指路)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=河南造出全球最大培育钻石)
@@ -20,6 +20,8 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
+1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
 1. [papi酱邀梁靖崑上节目](https://www.zhihu.com/search?q=papi酱邀梁靖崑上节目)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [长征十号乙](https://www.zhihu.com/search?q=长征十号乙)
