@@ -1,5 +1,9 @@
 [
-  { "query": "papi酱邀梁靖崑上节目", "display_query": "papi酱邀梁靖崑上节目" },
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
+  {
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
+  },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -14,13 +18,9 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
+  { "query": "papi酱邀梁靖崑上节目", "display_query": "papi酱邀梁靖崑上节目" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "长征十号乙", "display_query": "长征十号乙" },
   { "query": "李想官宣新车型i9", "display_query": "李想官宣新车型i9" },
-  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
-  {
-    "query": "挪威是一个什么样的国家",
-    "display_query": "挪威是一个什么样的国家"
-  },
   { "query": "高考分数排名", "display_query": "高考分数排名" }
 ]
