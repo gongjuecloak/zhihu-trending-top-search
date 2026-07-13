@@ -1,4 +1,23 @@
 [
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "小红书遭举报存在VIE信披矛盾等问题",
+    "display_query": "小红书遭举报存在VIE信披矛盾等问题"
+  },
+  {
+    "query": "茉莉奶白侵权 LV 被判赔 1030 万",
+    "display_query": "茉莉奶白侵权 LV 被判赔 1030 万"
+  },
+  {
+    "query": "冉莹颖邹市明三次离婚没离成",
+    "display_query": "冉莹颖邹市明三次离婚没离成"
+  },
+  { "query": "悬案热播", "display_query": "悬案热播" },
+  { "query": "悬案真实背景", "display_query": "悬案真实背景" },
+  { "query": "悬案导演答", "display_query": "悬案导演答" },
+  { "query": "悬案播出", "display_query": "悬案播出" },
+  { "query": "悬案真实", "display_query": "悬案真实" },
   { "query": "hle对战blg", "display_query": "hle对战blg" },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
@@ -14,7 +33,6 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
-  { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
     "query": "挪威是一个什么样的国家",
