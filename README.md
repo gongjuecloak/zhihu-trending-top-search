@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 19 2026 07:42:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 19 2026 09:47:37 GMT+0800 (China Standard Time) -->
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
+1. [父母离婚孩子想跟爸爸被法院驳回](https://www.zhihu.com/search?q=父母离婚孩子想跟爸爸被法院驳回)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
 1. [上证指数](https://www.zhihu.com/search?q=上证指数)
@@ -20,6 +20,7 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
+1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 
 <!-- END -->
 
