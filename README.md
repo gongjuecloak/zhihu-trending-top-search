@@ -8,8 +8,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 20 2026 13:59:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 20 2026 17:17:30 GMT+0800 (China Standard Time) -->
 
+1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=《八仙！》定档 7
+   月 24 日)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [阿根廷 脏](https://www.zhihu.com/search?q=阿根廷 脏)
+1. [英格兰教练图赫尔排兵布阵](https://www.zhihu.com/search?q=英格兰教练图赫尔排兵布阵)
+1. [中学生购高铁学生票需异地证明](https://www.zhihu.com/search?q=中学生购高铁学生票需异地证明)
+1. [法国vs英格兰](https://www.zhihu.com/search?q=法国vs英格兰)
+1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
+1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI K3模型正式上线)
+1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek V4
+   正式版即将发布)
 1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
