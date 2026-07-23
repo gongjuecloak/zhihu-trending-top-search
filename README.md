@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 24 2026 01:09:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 24 2026 02:59:02 GMT+0800 (China Standard Time) -->
 
-1. [上证指数](https://www.zhihu.com/search?q=上证指数)
+1. [人身险最新预定利率研究值出炉](https://www.zhihu.com/search?q=人身险最新预定利率研究值出炉)
+1. [证监会资本市场](https://www.zhihu.com/search?q=证监会资本市场)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [今日大暑](https://www.zhihu.com/search?q=今日大暑)
@@ -19,6 +20,7 @@
 1. [为什么物理规则几乎都是乘法](https://www.zhihu.com/search?q=为什么物理规则几乎都是乘法)
 1. [电影功夫女足](https://www.zhihu.com/search?q=电影功夫女足)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 
 <!-- END -->
