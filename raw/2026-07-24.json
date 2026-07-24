@@ -1,5 +1,8 @@
 [
-  { "query": "菲尔兹奖潜力华人人选", "display_query": "菲尔兹奖潜力华人人选" },
+  {
+    "query": "TVB 更名「无线集团」跨媒体转型升级",
+    "display_query": "TVB 更名「无线集团」跨媒体转型升级"
+  },
   {
     "query": "如何低成本照顾自己的心理健康",
     "display_query": "如何低成本照顾自己的心理健康"
@@ -22,7 +25,9 @@
     "query": "为什么狗对小孩子容忍度高",
     "display_query": "为什么狗对小孩子容忍度高"
   },
+  { "query": "极氪回应出国车机被锁", "display_query": "极氪回应出国车机被锁" },
   { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  { "query": "菲尔兹奖潜力华人人选", "display_query": "菲尔兹奖潜力华人人选" },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
