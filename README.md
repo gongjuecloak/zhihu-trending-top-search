@@ -8,8 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 06:53:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 07:55:23 GMT+0800 (China Standard Time) -->
 
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [Bin BLG](https://www.zhihu.com/search?q=Bin BLG)
 1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=滔搏暴力打折甩卖耐克库存)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=贫困生喝咖啡引争议)
@@ -24,7 +25,6 @@
 1. [詹姆斯加盟 76 人](https://www.zhihu.com/search?q=詹姆斯加盟 76 人)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=携程被罚没51.79亿元)
 1. [普陀山螃蟹3个价整懵游客](https://www.zhihu.com/search?q=普陀山螃蟹3个价整懵游客)
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [腾讯317万年终奖员工泄密被辞退](https://www.zhihu.com/search?q=腾讯317万年终奖员工泄密被辞退)
 
 <!-- END -->
