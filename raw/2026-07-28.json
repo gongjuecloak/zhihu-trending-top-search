@@ -1,5 +1,4 @@
 [
-  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "Bin BLG", "display_query": "Bin BLG" },
   {
     "query": "滔搏暴力打折甩卖耐克库存",
@@ -24,6 +23,11 @@
   },
   { "query": "詹姆斯加盟 76 人", "display_query": "詹姆斯加盟 76 人" },
   { "query": "携程被罚没51.79亿元", "display_query": "携程被罚没51.79亿元" },
+  {
+    "query": "普陀山螃蟹3个价整懵游客",
+    "display_query": "普陀山螃蟹3个价整懵游客"
+  },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   {
     "query": "腾讯317万年终奖员工泄密被辞退",
     "display_query": "腾讯317万年终奖员工泄密被辞退"
