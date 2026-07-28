@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 07:55:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 09:45:50 GMT+0800 (China Standard Time) -->
 
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [Bin BLG](https://www.zhihu.com/search?q=Bin BLG)
