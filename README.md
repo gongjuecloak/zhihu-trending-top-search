@@ -8,8 +8,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 30 2026 15:27:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 30 2026 18:12:52 GMT+0800 (China Standard Time) -->
 
+1. [揽佬新歌《中国人能飞》](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》)
+1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》爆火)
+1. [A股行情](https://www.zhihu.com/search?q=A股行情)
+1. [《九门》首播 4 集插播 49 个广告](https://www.zhihu.com/search?q=《九门》首播
+   4 集插播 49 个广告)
+1. [「唐朝不存在」伪史论](https://www.zhihu.com/search?q=「唐朝不存在」伪史论)
+1. [柯洁击败党毅飞夺冠](https://www.zhihu.com/search?q=柯洁击败党毅飞夺冠)
+1. [《我的前半生》暑期再次爆火](https://www.zhihu.com/search?q=《我的前半生》暑期再次爆火)
+1. [市民赤裸上身去公园「晒背」](https://www.zhihu.com/search?q=市民赤裸上身去公园「晒背」)
+1. [《蜘蛛侠：崭新之日》预测票房大降](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》预测票房大降)
+1. [有token的我 vs token用完的我](https://www.zhihu.com/search?q=有token的我 vs
+   token用完的我)
 1. [乐事废料被洗白成「毛粉」流向市场](https://www.zhihu.com/search?q=乐事废料被洗白成「毛粉」流向市场)
 1. [曝多家 AI 公司收旧书训练模型后销毁](https://www.zhihu.com/search?q=曝多家 AI
    公司收旧书训练模型后销毁)
