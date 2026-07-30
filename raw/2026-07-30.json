@@ -1,9 +1,11 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "日本地震", "display_query": "日本地震" },
   {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
+    "query": "徐福记澄清拼多多店非官方自营",
+    "display_query": "徐福记澄清拼多多店非官方自营"
+  },
+  {
+    "query": "「小苹果阿姨」走红网络",
+    "display_query": "「小苹果阿姨」走红网络"
   },
   {
     "query": "你都见过哪些不动声色的善良",
@@ -33,5 +35,11 @@
   {
     "query": "大彻大悟的人都看透了什么",
     "display_query": "大彻大悟的人都看透了什么"
+  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
   }
 ]
