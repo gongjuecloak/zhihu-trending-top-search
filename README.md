@@ -8,10 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 03 2026 07:50:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 03 2026 09:54:28 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [油价](https://www.zhihu.com/search?q=油价)
+1. [5年期大额存单回来了](https://www.zhihu.com/search?q=5年期大额存单回来了)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
@@ -20,6 +19,9 @@
 1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对很多事没了兴趣)
 1. [世界最伟大的水果](https://www.zhihu.com/search?q=世界最伟大的水果)
 1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=东北为何成为低物价天堂)
+1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=工作中到底能闯多大的祸)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [油价](https://www.zhihu.com/search?q=油价)
 
 <!-- END -->
 
