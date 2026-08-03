@@ -8,9 +8,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 03 2026 17:21:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 03 2026 20:49:18 GMT+0800 (China Standard Time) -->
 
+1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
+1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
+1. [利物浦vs利兹联](https://www.zhihu.com/search?q=利物浦vs利兹联)
 1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
+1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
+1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
@@ -20,9 +29,7 @@
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
 1. [丘成桐作诗祝贺王虹邓煜](https://www.zhihu.com/search?q=丘成桐作诗祝贺王虹邓煜)
 1. [法语越好在巴黎可能越被冷落](https://www.zhihu.com/search?q=法语越好在巴黎可能越被冷落)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [油价](https://www.zhihu.com/search?q=油价)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [dk战胜hle](https://www.zhihu.com/search?q=dk战胜hle)
