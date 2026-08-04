@@ -1,6 +1,5 @@
 [
-  { "query": "台风", "display_query": "台风" },
-  { "query": "心动的信号", "display_query": "心动的信号" },
+  { "query": "让AI替自己向同事求助", "display_query": "让AI替自己向同事求助" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },
   { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   { "query": "郑钦文退赛", "display_query": "郑钦文退赛" },
@@ -12,6 +11,9 @@
     "query": "患癌妻子申请销毁婚外胚胎遭拒",
     "display_query": "患癌妻子申请销毁婚外胚胎遭拒"
   },
+  { "query": "九门", "display_query": "九门" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "心动的信号", "display_query": "心动的信号" },
   {
     "query": "揽佬新歌《中国人能飞》爆火",
     "display_query": "揽佬新歌《中国人能飞》爆火"
