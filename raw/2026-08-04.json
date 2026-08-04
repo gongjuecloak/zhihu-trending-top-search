@@ -1,6 +1,8 @@
 [
-  { "query": "集中供冷", "display_query": "集中供冷" },
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "赞达亚戴3000年文物耳环被批",
+    "display_query": "赞达亚戴3000年文物耳环被批"
+  },
   { "query": "中超联赛", "display_query": "中超联赛" },
   {
     "query": "美联储宣布维持利率不变",
@@ -12,5 +14,11 @@
   { "query": "恋与深空", "display_query": "恋与深空" },
   { "query": "灿如繁星", "display_query": "灿如繁星" },
   { "query": "ewc", "display_query": "ewc" },
+  {
+    "query": "2026 菲尔兹奖即将公布",
+    "display_query": "2026 菲尔兹奖即将公布"
+  },
+  { "query": "集中供冷", "display_query": "集中供冷" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "四川宜宾地震", "display_query": "四川宜宾地震" }
 ]
