@@ -8,9 +8,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 20:50:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 23:06:02 GMT+0800 (China Standard Time) -->
 
-1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
+1. [多家车企回归静默上市](https://www.zhihu.com/search?q=多家车企回归静默上市)
+1. [中国预制房是如何爆单的](https://www.zhihu.com/search?q=中国预制房是如何爆单的)
 1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [理想i8发布](https://www.zhihu.com/search?q=理想i8发布)
@@ -19,6 +20,7 @@
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
+1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 1. [专家建议落实双休增加假期](https://www.zhihu.com/search?q=专家建议落实双休增加假期)
 1. [邻车长期压线 女子装护栏](https://www.zhihu.com/search?q=邻车长期压线
