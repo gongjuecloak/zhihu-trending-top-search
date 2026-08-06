@@ -8,13 +8,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 15:34:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 18:27:53 GMT+0800 (China Standard Time) -->
 
-1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
-1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
+1. [专家建议落实双休增加假期](https://www.zhihu.com/search?q=专家建议落实双休增加假期)
+1. [邻车长期压线 女子装护栏](https://www.zhihu.com/search?q=邻车长期压线
+   女子装护栏)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
+1. [《蜘蛛侠 4》导演否认成家班参与](https://www.zhihu.com/search?q=《蜘蛛侠
+   4》导演否认成家班参与)
+1. [传销犯变「国学大师」暴力管教孩子被查](https://www.zhihu.com/search?q=传销犯变「国学大师」暴力管教孩子被查)
+1. [妈妈偷改女儿高考志愿](https://www.zhihu.com/search?q=妈妈偷改女儿高考志愿)
+1. [电车保值率榜单公布
+   小米第一](https://www.zhihu.com/search?q=电车保值率榜单公布 小米第一)
+1. [侯明昊违反交规被警方约谈](https://www.zhihu.com/search?q=侯明昊违反交规被警方约谈)
+1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
+1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
 1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=蔡崇信宣布离婚)
 1. [亚洲明星联队 6:2 杭州足管队](https://www.zhihu.com/search?q=亚洲明星联队 6:2
