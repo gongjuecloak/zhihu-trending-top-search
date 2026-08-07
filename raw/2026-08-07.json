@@ -1,8 +1,15 @@
 [
-  { "query": "成都暴雨", "display_query": "成都暴雨" },
+  {
+    "query": "传销头目出狱办国学书院打孩子",
+    "display_query": "传销头目出狱办国学书院打孩子"
+  },
   { "query": "中餐厅", "display_query": "中餐厅" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "理想i8发布", "display_query": "理想i8发布" },
+  {
+    "query": "四川宜宾高县 5.0 级地震",
+    "display_query": "四川宜宾高县 5.0 级地震"
+  },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "这一秒过火", "display_query": "这一秒过火" },
   {
@@ -11,6 +18,7 @@
   },
   { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
   { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
+  { "query": "成都暴雨", "display_query": "成都暴雨" },
   { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
   {
     "query": "中传多个艺术类专业取消艺考",
