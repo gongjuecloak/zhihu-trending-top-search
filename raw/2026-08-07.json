@@ -1,9 +1,6 @@
 [
-  {
-    "query": "河南三支一扶考试存组织作弊犯罪",
-    "display_query": "河南三支一扶考试存组织作弊犯罪"
-  },
-  { "query": "阿根廷中国行或取消", "display_query": "阿根廷中国行或取消" },
+  { "query": "百花奖", "display_query": "百花奖" },
+  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "gen战胜hle", "display_query": "gen战胜hle" },
   { "query": "歌手总决赛", "display_query": "歌手总决赛" },
@@ -12,8 +9,14 @@
     "display_query": "四川宜宾高县 5.0 级地震"
   },
   { "query": "EWC", "display_query": "EWC" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" },
+  {
+    "query": "河南三支一扶考试存组织作弊犯罪",
+    "display_query": "河南三支一扶考试存组织作弊犯罪"
+  },
+  { "query": "阿根廷中国行或取消", "display_query": "阿根廷中国行或取消" },
   {
     "query": "儿科医生韩杰因医疗事故罪被判刑",
     "display_query": "儿科医生韩杰因医疗事故罪被判刑"
@@ -26,9 +29,6 @@
     "query": "我国首次证实「胶球」存在",
     "display_query": "我国首次证实「胶球」存在"
   },
-  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
-  { "query": "百花奖", "display_query": "百花奖" },
-  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
   { "query": "美国将 43 家中企拉黑", "display_query": "美国将 43 家中企拉黑" },
   { "query": "打工人三件套涨价", "display_query": "打工人三件套涨价" },
   {
